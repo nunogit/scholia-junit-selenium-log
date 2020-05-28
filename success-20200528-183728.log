@@ -1,0 +1,6 @@
+https://tools.wmflabs.org/scholia/award/Q35637	.*/award/Q[0-9]*$	co-awards	
+https://tools.wmflabs.org/scholia/award/Q35637	.*/award/Q[0-9]*$	gender-distribution	
+https://tools.wmflabs.org/scholia/award/Q35637	.*/award/Q[0-9]*$	recent-publications-by-recipients	
+https://tools.wmflabs.org/scholia/award/Q35637	.*/award/Q[0-9]*$	list-of-recipients	
+https://tools.wmflabs.org/scholia/award/Q35637	.*/award/Q[0-9]*$	iframe #1	Topics of works by recipients
+https://tools.wmflabs.org/scholia/award/Q35637	.*/award/Q[0-9]*$	iframe #2	Locations of recipients
