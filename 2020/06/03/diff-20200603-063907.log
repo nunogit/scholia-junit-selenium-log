@@ -1,0 +1,17 @@
+https://tools.wmflabs.org/scholia/author/Q46826387	.*/author/Q[0-9]*$	iframe #6	Timeline
+https://tools.wmflabs.org/scholia/author/Q46826387	.*/author/Q[0-9]*$	iframe #8	Locations
+https://tools.wmflabs.org/scholia/topic/Q52	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://tools.wmflabs.org/scholia/award/Q35637	.*/award/Q[0-9]*$	iframe #1	Topics of works by recipients
+https://tools.wmflabs.org/scholia/country/Q668/topic/Q10737	.*/topic/Q[0-9]*$	iframe #0	Co-author graph
+https://tools.wmflabs.org/scholia/topic/Q29496	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://tools.wmflabs.org/scholia/topic/Q29496	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://tools.wmflabs.org/scholia/topic/Q29496	.*/topic/Q[0-9]*$	iframe #4	Author score
+https://tools.wmflabs.org/scholia/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://tools.wmflabs.org/scholia/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://tools.wmflabs.org/scholia/topic/Q12156	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://tools.wmflabs.org/scholia/topic/Q12156	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://tools.wmflabs.org/scholia/topic/Q12156	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://tools.wmflabs.org/scholia/topic/Q180556	.*/topic/Q[0-9]*$	iframe #4	Author score
+https://tools.wmflabs.org/scholia/topic/Q181600	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://tools.wmflabs.org/scholia/topic/Q668	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://tools.wmflabs.org/scholia/topic/Q668	.*/topic/Q[0-9]*$	iframe #4	Author score
