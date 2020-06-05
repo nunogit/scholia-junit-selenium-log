@@ -1,0 +1,20 @@
+https://tools.wmflabs.org/scholia/topic/Q111140	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://tools.wmflabs.org/scholia/topic/Q111140	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://tools.wmflabs.org/scholia/topic/Q111140	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://tools.wmflabs.org/scholia/topic/Q111140	.*/topic/Q[0-9]*$	iframe #4	Author score
+https://tools.wmflabs.org/scholia/author/Q46826387	.*/author/Q[0-9]*$	iframe #5	Associated images
+https://tools.wmflabs.org/scholia/topic/Q15	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://tools.wmflabs.org/scholia/chemical/Q2270	.*/chemical/Q[0-9]*$	iframe #0	Publications per year
+https://tools.wmflabs.org/scholia/topic/Q12174	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://tools.wmflabs.org/scholia/country/Q668	.*/country/Q[0-9]*$	iframe #2	Co-organizations
+https://tools.wmflabs.org/scholia/topic/Q41112	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://tools.wmflabs.org/scholia/topic/Q41112	.*/topic/Q[0-9]*$	iframe #4	Author score
+https://tools.wmflabs.org/scholia/award/Q35637	.*/award/Q[0-9]*$	iframe #2	Locations of recipients
+https://tools.wmflabs.org/scholia/organization/Q583725	.*/organization/Q[0-9]*$	iframe #4	Co-author-normalized citations per year
+https://tools.wmflabs.org/scholia/topic/Q29496	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://tools.wmflabs.org/scholia/topic/Q29496	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://tools.wmflabs.org/scholia/topic/Q12156	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://tools.wmflabs.org/scholia/topic/Q12156	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://tools.wmflabs.org/scholia/topic/Q583725	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://tools.wmflabs.org/scholia/topic/Q181600	.*/topic/Q[0-9]*$	iframe #4	Author score
+https://tools.wmflabs.org/scholia/topic/Q668	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
