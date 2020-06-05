@@ -1,0 +1,13 @@
+https://tools.wmflabs.org/scholia/topic/Q111140	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://tools.wmflabs.org/scholia/topic/Q52	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://tools.wmflabs.org/scholia/topic/Q12174	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://tools.wmflabs.org/scholia/topic/Q41112	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://tools.wmflabs.org/scholia/organizations/Q1269766,Q193196	_unknown	iframe #2	Citations to works ratio
+https://tools.wmflabs.org/scholia/chemical-class/Q41581	.*/chemical-class/Q[0-9]*$	iframe #0	Class Hierarchy
+https://tools.wmflabs.org/scholia/topic/Q12156	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://tools.wmflabs.org/scholia/topic/Q180556	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://tools.wmflabs.org/scholia/topic/Q181600	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://tools.wmflabs.org/scholia/topic/Q181600	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://tools.wmflabs.org/scholia/topic/Q181600	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://tools.wmflabs.org/scholia/organization/Q131626	.*/organization/Q[0-9]*$	iframe #1	Advisor graph
+https://tools.wmflabs.org/scholia/topic/Q668	.*/topic/Q[0-9]*$	iframe #4	Author score
