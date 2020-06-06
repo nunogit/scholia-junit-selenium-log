@@ -1,0 +1,18 @@
+https://tools.wmflabs.org/scholia/topic/Q111140	.*/topic/Q[0-9]*$	iframe #4	Author score
+https://tools.wmflabs.org/scholia/topic/Q111140	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://tools.wmflabs.org/scholia/author/Q46826387	.*/author/Q[0-9]*$	iframe #5	Associated images
+https://tools.wmflabs.org/scholia/topic/Q52	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://tools.wmflabs.org/scholia/topic/Q12174	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://tools.wmflabs.org/scholia/country/Q668	.*/country/Q[0-9]*$	iframe #2	Co-organizations
+https://tools.wmflabs.org/scholia/printer/	.*/printer/	iframe #0	Map of printers
+https://tools.wmflabs.org/scholia/clinical-trial/	.*/clinical-trial/	iframe #0	Phases
+https://tools.wmflabs.org/scholia/topic/Q29496	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://tools.wmflabs.org/scholia/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://tools.wmflabs.org/scholia/author/Q55004959	.*/author/Q[0-9]*$	iframe #3	Co-author graph
+https://tools.wmflabs.org/scholia/author/Q55004959	.*/author/Q[0-9]*$	iframe #7	Academic tree
+https://tools.wmflabs.org/scholia/topic/Q12156	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://tools.wmflabs.org/scholia/topic/Q12156	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://tools.wmflabs.org/scholia/topic/Q12156	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://tools.wmflabs.org/scholia/topic/Q180556	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://tools.wmflabs.org/scholia/topic/Q668	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://tools.wmflabs.org/scholia/topic/Q668	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
