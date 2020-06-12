@@ -1,0 +1,7 @@
+Iteration: 0.0 Runtime: 2020/06/12
+https://www.roupeiro.pt/author/Q583725	.*/author/Q[0-9]*$	iframe #0		-1000	failure
+https://www.roupeiro.pt/author/Q583725	.*/author/Q[0-9]*$	iframe #1		-1000	failure
+https://www.roupeiro.pt/award/Q35637	.*/award/Q[0-9]*$	iframe #0		-1000	failure
+https://www.roupeiro.pt/award/Q35637	.*/award/Q[0-9]*$	iframe #1		-1000	failure
+https://www.roupeiro.pt/organizations/Q1269766,Q193196	_unknown	iframe #0		-1000	failure
+https://www.roupeiro.pt/organizations/Q1269766,Q193196	_unknown	iframe #1		-1000	failure
