@@ -1,0 +1,26 @@
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q41112	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q41112	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q41112	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://scholia.toolforge.org/topic/Q41112	.*/topic/Q[0-9]*$	iframe #4	Author score
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #4	Topic scores
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	iframe #0	Images of recipients
+https://scholia.toolforge.org/disease/Q12156	.*/disease/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #4	Author score
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #3	Co-author graph
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #4	Author score
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	iframe #2	Venue statistics
+https://scholia.toolforge.org/topic/Q52	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	iframe #4	Author score
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
