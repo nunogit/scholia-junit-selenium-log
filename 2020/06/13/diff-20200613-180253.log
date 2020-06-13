@@ -1,0 +1,17 @@
+https://scholia.toolforge.org/chemical-class/Q41581	.*/chemical-class/Q[0-9]*$	iframe #0	Class Hierarchy
+https://scholia.toolforge.org/topic/Q64	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #4	Author score
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/use/Q5140318	.*/use/Q[0-9]*$	iframe #0	Topics of works using the resource
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q41112	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://scholia.toolforge.org/topic/Q41112	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #6	Timeline
+https://scholia.toolforge.org/topic/Q583725	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	iframe #6	Timeline
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	iframe #0	Publications per year
