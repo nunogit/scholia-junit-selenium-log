@@ -1,16 +1,16 @@
-https://tools.wmflabs.org/scholia/topic/Q111140	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
-https://tools.wmflabs.org/scholia/topic/Q111140	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
-https://tools.wmflabs.org/scholia/catalogue/Q42661788	.*/catalogue/Q[0-9]*$	iframe #0	Images
-https://tools.wmflabs.org/scholia/author/Q46826387	.*/author/Q[0-9]*$	iframe #5	Associated images
-https://tools.wmflabs.org/scholia/topic/Q12174	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
-https://tools.wmflabs.org/scholia/topic/Q12174	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
-https://tools.wmflabs.org/scholia/topic/Q12174	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
-https://tools.wmflabs.org/scholia/topic/Q12174	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
-https://tools.wmflabs.org/scholia/printer/	.*/printer/	iframe #0	Map of printers
-https://tools.wmflabs.org/scholia/award/Q35637	.*/award/Q[0-9]*$	iframe #1	Topics of works by recipients
-https://tools.wmflabs.org/scholia/author/Q55004959	.*/author/Q[0-9]*$	iframe #3	Co-author graph
-https://tools.wmflabs.org/scholia/author/Q55004959	.*/author/Q[0-9]*$	iframe #5	Associated images
-https://tools.wmflabs.org/scholia/topic/Q12156	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
-https://tools.wmflabs.org/scholia/topic/Q180556	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
-https://tools.wmflabs.org/scholia/topic/Q668	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
-https://tools.wmflabs.org/scholia/topic/Q668	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/catalogue/Q42661788	.*/catalogue/Q[0-9]*$	iframe #0	Images
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #5	Associated images
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/printer/	.*/printer/	iframe #0	Map of printers
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	iframe #1	Topics of works by recipients
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #3	Co-author graph
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #5	Associated images
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic

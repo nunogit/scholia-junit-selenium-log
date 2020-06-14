@@ -1,24 +1,24 @@
-https://tools.wmflabs.org/scholia/topic/Q111140	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
-https://tools.wmflabs.org/scholia/author/Q46826387	.*/author/Q[0-9]*$	iframe #2	Venue statistics
-https://tools.wmflabs.org/scholia/author/Q46826387	.*/author/Q[0-9]*$	iframe #3	Co-author graph
-https://tools.wmflabs.org/scholia/author/Q46826387	.*/author/Q[0-9]*$	iframe #5	Associated images
-https://tools.wmflabs.org/scholia/topic/Q52	.*/topic/Q[0-9]*$	iframe #0	Publications per year
-https://tools.wmflabs.org/scholia/topic/Q52	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
-https://tools.wmflabs.org/scholia/topic/Q12174	.*/topic/Q[0-9]*$	iframe #4	Author score
-https://tools.wmflabs.org/scholia/topic/Q12174	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
-https://tools.wmflabs.org/scholia/organizations/Q1269766,Q193196	_unknown	iframe #2	Citations to works ratio
-https://tools.wmflabs.org/scholia/clinical-trial/	.*/clinical-trial/	iframe #0	Phases
-https://tools.wmflabs.org/scholia/topic/Q29496	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
-https://tools.wmflabs.org/scholia/topic/Q29496	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
-https://tools.wmflabs.org/scholia/topic/Q29496	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
-https://tools.wmflabs.org/scholia/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #4	Author score
-https://tools.wmflabs.org/scholia/topic/Q12156	.*/topic/Q[0-9]*$	iframe #0	Publications per year
-https://tools.wmflabs.org/scholia/topic/Q12156	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
-https://tools.wmflabs.org/scholia/topic/Q583725	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
-https://tools.wmflabs.org/scholia/topic/Q180556	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
-https://tools.wmflabs.org/scholia/topic/Q181600	.*/topic/Q[0-9]*$	iframe #0	Publications per year
-https://tools.wmflabs.org/scholia/topic/Q181600	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
-https://tools.wmflabs.org/scholia/topic/Q181600	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
-https://tools.wmflabs.org/scholia/organization/Q131626	.*/organization/Q[0-9]*$	iframe #3	Most cited papers with affiliated first author
-https://tools.wmflabs.org/scholia/topic/Q668	.*/topic/Q[0-9]*$	iframe #0	Publications per year
-https://tools.wmflabs.org/scholia/topic/Q668	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #2	Venue statistics
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #3	Co-author graph
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #5	Associated images
+https://scholia.toolforge.org/topic/Q52	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q52	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	iframe #4	Author score
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/organizations/Q1269766,Q193196	_unknown	iframe #2	Citations to works ratio
+https://scholia.toolforge.org/clinical-trial/	.*/clinical-trial/	iframe #0	Phases
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #4	Author score
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://scholia.toolforge.org/topic/Q583725	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/organization/Q131626	.*/organization/Q[0-9]*$	iframe #3	Most cited papers with affiliated first author
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph

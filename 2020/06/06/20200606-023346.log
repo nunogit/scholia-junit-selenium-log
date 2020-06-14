@@ -1,62 +1,62 @@
-https://tools.wmflabs.org/scholia/topic/Q111140	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
-https://tools.wmflabs.org/scholia/topic/Q111140	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
-https://tools.wmflabs.org/scholia/topic/Q111140	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
-https://tools.wmflabs.org/scholia/catalogue/Q42661788	.*/catalogue/Q[0-9]*$	iframe #0	Images
-https://tools.wmflabs.org/scholia/author/Q46826387	.*/author/Q[0-9]*$	iframe #0	Number of publications per year
-https://tools.wmflabs.org/scholia/author/Q46826387	.*/author/Q[0-9]*$	iframe #1	Number of pages per year
-https://tools.wmflabs.org/scholia/author/Q46826387	.*/author/Q[0-9]*$	iframe #2	Venue statistics
-https://tools.wmflabs.org/scholia/author/Q46826387	.*/author/Q[0-9]*$	iframe #3	Co-author graph
-https://tools.wmflabs.org/scholia/author/Q46826387	.*/author/Q[0-9]*$	iframe #5	Associated images
-https://tools.wmflabs.org/scholia/topic/Q15	.*/topic/Q[0-9]*$	iframe #0	Publications per year
-https://tools.wmflabs.org/scholia/topic/Q15	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
-https://tools.wmflabs.org/scholia/topic/Q15	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
-https://tools.wmflabs.org/scholia/topic/Q15	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
-https://tools.wmflabs.org/scholia/topic/Q15	.*/topic/Q[0-9]*$	iframe #4	Author score
-https://tools.wmflabs.org/scholia/topic/Q15	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
-https://tools.wmflabs.org/scholia/topic/Q532	.*/topic/Q[0-9]*$	iframe #0	Publications per year
-https://tools.wmflabs.org/scholia/topic/Q532	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
-https://tools.wmflabs.org/scholia/topic/Q532	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
-https://tools.wmflabs.org/scholia/topic/Q532	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
-https://tools.wmflabs.org/scholia/topic/Q532	.*/topic/Q[0-9]*$	iframe #4	Author score
-https://tools.wmflabs.org/scholia/topic/Q532	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
-https://tools.wmflabs.org/scholia/topic/Q12174	.*/topic/Q[0-9]*$	iframe #0	Publications per year
-https://tools.wmflabs.org/scholia/topic/Q12174	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
-https://tools.wmflabs.org/scholia/topic/Q12174	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
-https://tools.wmflabs.org/scholia/topic/Q12174	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
-https://tools.wmflabs.org/scholia/topic/Q12174	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
-https://tools.wmflabs.org/scholia/country/Q668	.*/country/Q[0-9]*$	iframe #0	Locations as topics
-https://tools.wmflabs.org/scholia/country/Q668	.*/country/Q[0-9]*$	iframe #1	Narrative locations
-https://tools.wmflabs.org/scholia/topic/Q41112	.*/topic/Q[0-9]*$	iframe #0	Publications per year
-https://tools.wmflabs.org/scholia/topic/Q41112	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
-https://tools.wmflabs.org/scholia/topic/Q41112	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
-https://tools.wmflabs.org/scholia/printer/	.*/printer/	iframe #0	Map of printers
-https://tools.wmflabs.org/scholia/award/Q35637	.*/award/Q[0-9]*$	iframe #1	Topics of works by recipients
-https://tools.wmflabs.org/scholia/pathway/Q30225516	.*/pathway/Q[0-9]*$	iframe #0	
-https://tools.wmflabs.org/scholia/pathway/Q30225516	.*/pathway/Q[0-9]*$	iframe #1	Publications per year
-https://tools.wmflabs.org/scholia/sponsor/Q4314967	.*/sponsor/Q[0-9]*$	iframe #0	Topics of sponsored work
-https://tools.wmflabs.org/scholia/sponsor/Q4314967	.*/sponsor/Q[0-9]*$	iframe #1	Project budgets
-https://tools.wmflabs.org/scholia/topic/Q29496	.*/topic/Q[0-9]*$	iframe #0	Publications per year
-https://tools.wmflabs.org/scholia/topic/Q29496	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
-https://tools.wmflabs.org/scholia/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #0	Publications per year
-https://tools.wmflabs.org/scholia/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
-https://tools.wmflabs.org/scholia/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
-https://tools.wmflabs.org/scholia/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
-https://tools.wmflabs.org/scholia/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #4	Author score
-https://tools.wmflabs.org/scholia/author/Q55004959	.*/author/Q[0-9]*$	iframe #0	Number of publications per year
-https://tools.wmflabs.org/scholia/author/Q55004959	.*/author/Q[0-9]*$	iframe #1	Number of pages per year
-https://tools.wmflabs.org/scholia/author/Q55004959	.*/author/Q[0-9]*$	iframe #2	Venue statistics
-https://tools.wmflabs.org/scholia/author/Q55004959	.*/author/Q[0-9]*$	iframe #3	Co-author graph
-https://tools.wmflabs.org/scholia/author/Q55004959	.*/author/Q[0-9]*$	iframe #5	Associated images
-https://tools.wmflabs.org/scholia/P577	_unknown	iframe #0	Item counts
-https://tools.wmflabs.org/scholia/P577	_unknown	iframe #1	Property value counts
-https://tools.wmflabs.org/scholia/topic/Q12156	.*/topic/Q[0-9]*$	iframe #0	Publications per year
-https://tools.wmflabs.org/scholia/topic/Q12156	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
-https://tools.wmflabs.org/scholia/topic/Q12156	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
-https://tools.wmflabs.org/scholia/topic/Q12156	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
-https://tools.wmflabs.org/scholia/topic/Q180556	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
-https://tools.wmflabs.org/scholia/topic/Q180556	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
-https://tools.wmflabs.org/scholia/topic/Q181600	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
-https://tools.wmflabs.org/scholia/topic/Q181600	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
-https://tools.wmflabs.org/scholia/topic/Q668	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
-https://tools.wmflabs.org/scholia/topic/Q668	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
-https://tools.wmflabs.org/scholia/topic/Q668	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/catalogue/Q42661788	.*/catalogue/Q[0-9]*$	iframe #0	Images
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #0	Number of publications per year
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #1	Number of pages per year
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #2	Venue statistics
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #3	Co-author graph
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #5	Associated images
+https://scholia.toolforge.org/topic/Q15	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q15	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q15	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q15	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://scholia.toolforge.org/topic/Q15	.*/topic/Q[0-9]*$	iframe #4	Author score
+https://scholia.toolforge.org/topic/Q15	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/topic/Q532	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q532	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q532	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q532	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://scholia.toolforge.org/topic/Q532	.*/topic/Q[0-9]*$	iframe #4	Author score
+https://scholia.toolforge.org/topic/Q532	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/country/Q668	.*/country/Q[0-9]*$	iframe #0	Locations as topics
+https://scholia.toolforge.org/country/Q668	.*/country/Q[0-9]*$	iframe #1	Narrative locations
+https://scholia.toolforge.org/topic/Q41112	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q41112	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q41112	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/printer/	.*/printer/	iframe #0	Map of printers
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	iframe #1	Topics of works by recipients
+https://scholia.toolforge.org/pathway/Q30225516	.*/pathway/Q[0-9]*$	iframe #0	
+https://scholia.toolforge.org/pathway/Q30225516	.*/pathway/Q[0-9]*$	iframe #1	Publications per year
+https://scholia.toolforge.org/sponsor/Q4314967	.*/sponsor/Q[0-9]*$	iframe #0	Topics of sponsored work
+https://scholia.toolforge.org/sponsor/Q4314967	.*/sponsor/Q[0-9]*$	iframe #1	Project budgets
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #4	Author score
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #0	Number of publications per year
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #1	Number of pages per year
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #2	Venue statistics
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #3	Co-author graph
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #5	Associated images
+https://scholia.toolforge.org/P577	_unknown	iframe #0	Item counts
+https://scholia.toolforge.org/P577	_unknown	iframe #1	Property value counts
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
