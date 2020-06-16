@@ -1,0 +1,14 @@
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	iframe #4	Author score
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/country/Q35	.*/country/Q[0-9]*$	iframe #1	Narrative locations
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #7	Academic tree
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #8	Locations
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #9	Citations by year
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #5	Associated images
+https://scholia.toolforge.org/work/Q21090025	.*/work/Q[0-9]*$	iframe #1	Timeline
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	iframe #1	Co-author graph
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
