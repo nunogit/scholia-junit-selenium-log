@@ -1,0 +1,18 @@
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://scholia.toolforge.org/venue/Q4775205	.*/venue/Q[0-9]*$	iframe #0	Author images
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #2	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics map
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	iframe #4	Author score
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	iframe #4	Author score
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	iframe #5	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #5	Associated images
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #4	Author score
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #5	Associated images
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #6	Timeline
+https://scholia.toolforge.org/disease/Q84263196	.*/disease/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/organizations/Q1269766,Q193196	_unknown	iframe #1	Citations per year
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	iframe #3	Co-author graph
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	iframe #7	Academic tree
