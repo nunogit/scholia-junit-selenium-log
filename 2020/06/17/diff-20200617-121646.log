@@ -1,0 +1,27 @@
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	iframe #2	Co-author graph
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	iframe #5	Author score
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	iframe #7	Citation graph of works about the topic, aggregated by country
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	iframe #1	Publications per year
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	iframe #2	Co-author graph
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	iframe #7	Citation graph of works about the topic, aggregated by country
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #0	The topic in context
+https://scholia.toolforge.org/use/Q5140318	.*/use/Q[0-9]*$	iframe #1	Authors of works using the resource
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	iframe #0	The topic in context
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	iframe #4	Co-occurring topics map
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	iframe #5	Author score
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q41112	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/organization/Q583725	.*/organization/Q[0-9]*$	iframe #3	Most cited papers with affiliated first author
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	iframe #0	Images of recipients
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	iframe #1	Topics of works by recipients
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	iframe #2	Locations of recipients
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/topic/Q583725	.*/topic/Q[0-9]*$	iframe #0	The topic in context
+https://scholia.toolforge.org/topic/Q583725	.*/topic/Q[0-9]*$	iframe #1	Publications per year
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #1	Publications per year
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #4	Co-occurring topics map
+https://scholia.toolforge.org/topic/Q532	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q532	.*/topic/Q[0-9]*$	iframe #7	Citation graph of works about the topic, aggregated by country
+https://scholia.toolforge.org/topic/Q52	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph
