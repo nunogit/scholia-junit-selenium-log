@@ -1,0 +1,16 @@
+https://scholia.toolforge.org/organizations/Q1269766,Q193196	_unknown	iframe #0	Works per year
+https://scholia.toolforge.org/organizations/Q1269766,Q193196	_unknown	iframe #1	Citations per year
+https://scholia.toolforge.org/organizations/Q1269766,Q193196	_unknown	iframe #2	Citations to works ratio
+https://scholia.toolforge.org/organizations/Q1269766,Q193196	_unknown	iframe #3	Topics
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #0	Number of publications per year
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #1	Number of pages per year
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #2	Venue statistics
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #3	Co-author graph
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #4	Topic scores
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #5	Associated images
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #6	Timeline
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #7	Academic tree
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #9	Citations by year
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	iframe #0	Images of recipients
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	iframe #1	Topics of works by recipients
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	iframe #2	Locations of recipients
