@@ -1,0 +1,412 @@
+https://scholia.toolforge.org/chemical-class/Q41581	.*/chemical-class/Q[0-9]*$	iframe #0	Class Hierarchy	3000	success
+https://scholia.toolforge.org/chemical-class/Q41581	.*/chemical-class/Q[0-9]*$	iframe #1	Publications per year	2000	success
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	iframe #1	Publications per year	-1000	failure
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic	-1000	failure
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	venues		-1	success
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	authors		-1	success
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	iframe #0	The topic in context	5000	success
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	iframe #2	Co-author graph	2000	success
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph	5000	success
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	iframe #4	Co-occurring topics map	8000	success
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	iframe #5	Author score	3000	success
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	iframe #7	Citation graph of works about the topic, aggregated by country	5000	success
+https://scholia.toolforge.org/country/Q668/topic/Q10737	.*/topic/Q[0-9]*$	authors		-1	success
+https://scholia.toolforge.org/country/Q668/topic/Q10737	.*/topic/Q[0-9]*$	iframe #0	Co-author graph	2000	success
+https://scholia.toolforge.org/country/Q668/topic/Q10737	.*/topic/Q[0-9]*$	iframe #1	Co-citation graph	2000	success
+https://scholia.toolforge.org/gene/Q18030793	.*/gene/Q[0-9]*$	transcripts		-1	success
+https://scholia.toolforge.org/gene/Q18030793	.*/gene/Q[0-9]*$	proteins		-1	success
+https://scholia.toolforge.org/gene/Q18030793	.*/gene/Q[0-9]*$	variants		-1	success
+https://scholia.toolforge.org/gene/Q18030793	.*/gene/Q[0-9]*$	orthologs		-1	success
+https://scholia.toolforge.org/catalogue/Q42661788	.*/catalogue/Q[0-9]*$	items-in-catalogue		-1	success
+https://scholia.toolforge.org/catalogue/Q42661788	.*/catalogue/Q[0-9]*$	iframe #0	Images	7000	success
+https://scholia.toolforge.org/topic/Q64	.*/topic/Q[0-9]*$	most-cited-authors		-1	success
+https://scholia.toolforge.org/topic/Q64	.*/topic/Q[0-9]*$	recently-published-works		-1	success
+https://scholia.toolforge.org/topic/Q64	.*/topic/Q[0-9]*$	topCited		-1	success
+https://scholia.toolforge.org/topic/Q64	.*/topic/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/topic/Q64	.*/topic/Q[0-9]*$	venues		-1	success
+https://scholia.toolforge.org/topic/Q64	.*/topic/Q[0-9]*$	authors		-1	success
+https://scholia.toolforge.org/topic/Q64	.*/topic/Q[0-9]*$	author-score		-1	success
+https://scholia.toolforge.org/topic/Q64	.*/topic/Q[0-9]*$	iframe #0	The topic in context	5000	success
+https://scholia.toolforge.org/topic/Q64	.*/topic/Q[0-9]*$	iframe #1	Publications per year	7000	success
+https://scholia.toolforge.org/topic/Q64	.*/topic/Q[0-9]*$	iframe #2	Co-author graph	5000	success
+https://scholia.toolforge.org/topic/Q64	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph	6000	success
+https://scholia.toolforge.org/topic/Q64	.*/topic/Q[0-9]*$	iframe #4	Co-occurring topics map	2000	success
+https://scholia.toolforge.org/topic/Q64	.*/topic/Q[0-9]*$	iframe #5	Author score	7000	success
+https://scholia.toolforge.org/topic/Q64	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic	3000	success
+https://scholia.toolforge.org/topic/Q64	.*/topic/Q[0-9]*$	iframe #7	Citation graph of works about the topic, aggregated by country	2000	success
+https://scholia.toolforge.org/location/Q668	.*/location/Q[0-9]*$	nearby-organizations		-1	success
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	venues		-1	success
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	authors		-1	success
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	iframe #0	The topic in context	6000	success
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	iframe #1	Publications per year	7000	success
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph	6000	success
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	iframe #5	Author score	6000	success
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic	7000	success
+https://scholia.toolforge.org/organization/Q131626	.*/organization/Q[0-9]*$	awards		-1	success
+https://scholia.toolforge.org/organization/Q131626	.*/organization/Q[0-9]*$	gender-distribution		-1	success
+https://scholia.toolforge.org/organization/Q131626	.*/organization/Q[0-9]*$	recent-publications		-1	success
+https://scholia.toolforge.org/organization/Q131626	.*/organization/Q[0-9]*$	iframe #0	Co-author graph	6000	success
+https://scholia.toolforge.org/organization/Q131626	.*/organization/Q[0-9]*$	iframe #1	Advisor graph	6000	success
+https://scholia.toolforge.org/organization/Q131626	.*/organization/Q[0-9]*$	iframe #2	Page production	7000	success
+https://scholia.toolforge.org/organization/Q131626	.*/organization/Q[0-9]*$	iframe #3	Most cited papers with affiliated first author	3000	success
+https://scholia.toolforge.org/organization/Q131626	.*/organization/Q[0-9]*$	iframe #4	Co-author-normalized citations per year	12000	success
+https://scholia.toolforge.org/location/Q5465	.*/location/Q[0-9]*$	nearby-organizations		-1	success
+https://scholia.toolforge.org/venue/Q4775205	.*/venue/Q[0-9]*$	cited-venues		-1	success
+https://scholia.toolforge.org/venue/Q4775205	.*/venue/Q[0-9]*$	most-cited-authors		-1	success
+https://scholia.toolforge.org/venue/Q4775205	.*/venue/Q[0-9]*$	recently-published-works		-1	success
+https://scholia.toolforge.org/venue/Q4775205	.*/venue/Q[0-9]*$	prolific-authors		-1	success
+https://scholia.toolforge.org/venue/Q4775205	.*/venue/Q[0-9]*$	most-cited-works		-1	success
+https://scholia.toolforge.org/venue/Q4775205	.*/venue/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/venue/Q4775205	.*/venue/Q[0-9]*$	authorships-gender-distribution		-1	success
+https://scholia.toolforge.org/venue/Q4775205	.*/venue/Q[0-9]*$	gender-distribution		-1	success
+https://scholia.toolforge.org/venue/Q4775205	.*/venue/Q[0-9]*$	citing-venues		-1	success
+https://scholia.toolforge.org/venue/Q4775205	.*/venue/Q[0-9]*$	iframe #0	Author images	4000	success
+https://scholia.toolforge.org/venue/Q4775205	.*/venue/Q[0-9]*$	iframe #1	Co-author graph	6000	success
+https://scholia.toolforge.org/venue/Q4775205	.*/venue/Q[0-9]*$	iframe #2	Citation distribution	4000	success
+https://scholia.toolforge.org/location/Q583725	.*/location/Q[0-9]*$	nearby-organizations		-1	success
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	authors		-1	success
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #0	The topic in context	8000	success
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #1	Publications per year	7000	success
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #2	Co-author graph	2000	success
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph	8000	success
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #4	Co-occurring topics map	2000	success
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #5	Author score	2000	success
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic	2000	success
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #7	Citation graph of works about the topic, aggregated by country	2000	success
+https://scholia.toolforge.org/use/Q5140318	.*/use/Q[0-9]*$	iframe #0	Topics of works using the resource	-1000	failure
+https://scholia.toolforge.org/use/Q5140318	.*/use/Q[0-9]*$	recent-work-using-the-used		-1	success
+https://scholia.toolforge.org/use/Q5140318	.*/use/Q[0-9]*$	co-used		-1	success
+https://scholia.toolforge.org/use/Q5140318	.*/use/Q[0-9]*$	iframe #1	Authors of works using the resource	6000	success
+https://scholia.toolforge.org/use/Q5140318	.*/use/Q[0-9]*$	iframe #2	Usage over time	6000	success
+https://scholia.toolforge.org/pathway/Q30225516	.*/pathway/Q[0-9]*$	iframe #0		-1000	failure
+https://scholia.toolforge.org/pathway/Q30225516	.*/pathway/Q[0-9]*$	iframe #1	Publications per year	-1000	failure
+https://scholia.toolforge.org/pathway/Q30225516	.*/pathway/Q[0-9]*$	recentArticles		-1	success
+https://scholia.toolforge.org/pathway/Q30225516	.*/pathway/Q[0-9]*$	participants		-1	success
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	iframe #4	Co-occurring topics map	-1000	failure
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	venues		-1	success
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	authors		-1	success
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	iframe #0	The topic in context	6000	success
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	iframe #1	Publications per year	6000	success
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	iframe #2	Co-author graph	5000	success
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph	2000	success
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	iframe #5	Author score	5000	success
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic	5000	success
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	iframe #7	Citation graph of works about the topic, aggregated by country	5000	success
+https://scholia.toolforge.org/taxon/Q15978631	.*/taxon/Q[0-9]*$	genome		-1	success
+https://scholia.toolforge.org/taxon/Q15978631	.*/taxon/Q[0-9]*$	metabolome		-1	success
+https://scholia.toolforge.org/taxon/Q15978631	.*/taxon/Q[0-9]*$	parents		-1	success
+https://scholia.toolforge.org/taxon/Q15978631	.*/taxon/Q[0-9]*$	iframe #0	Parent Taxa	3000	success
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	iframe #1	Publications per year	-1000	failure
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	iframe #2	Co-author graph	-1000	failure
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic	-1000	failure
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	venues		-1	success
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	authors		-1	success
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	iframe #0	The topic in context	7000	success
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph	7000	success
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	iframe #4	Co-occurring topics map	7000	success
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	iframe #5	Author score	2000	success
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	iframe #7	Citation graph of works about the topic, aggregated by country	6000	success
+https://scholia.toolforge.org/taxon/Q82069695	.*/taxon/Q[0-9]*$	genome		-1	success
+https://scholia.toolforge.org/taxon/Q82069695	.*/taxon/Q[0-9]*$	metabolome		-1	success
+https://scholia.toolforge.org/taxon/Q82069695	.*/taxon/Q[0-9]*$	parents		-1	success
+https://scholia.toolforge.org/taxon/Q82069695	.*/taxon/Q[0-9]*$	iframe #0	Parent Taxa	6000	success
+https://scholia.toolforge.org/country/Q35	.*/country/Q[0-9]*$	iframe #0	Locations as topics	18000	success
+https://scholia.toolforge.org/country/Q35	.*/country/Q[0-9]*$	iframe #1	Narrative locations	19000	success
+https://scholia.toolforge.org/country/Q35	.*/country/Q[0-9]*$	iframe #2	Co-organizations	10000	success
+https://scholia.toolforge.org/sponsor/Q4314967	.*/sponsor/Q[0-9]*$	iframe #0	Topics of sponsored work	-1000	failure
+https://scholia.toolforge.org/sponsor/Q4314967	.*/sponsor/Q[0-9]*$	iframe #1	Project budgets	-1000	failure
+https://scholia.toolforge.org/sponsor/Q4314967	.*/sponsor/Q[0-9]*$	co-sponsors		-1	success
+https://scholia.toolforge.org/sponsor/Q4314967	.*/sponsor/Q[0-9]*$	recently-published-sponsored-work		-1	success
+https://scholia.toolforge.org/sponsor/Q4314967	.*/sponsor/Q[0-9]*$	authors-on-sponsored-work		-1	success
+https://scholia.toolforge.org/location/Q30	.*/location/Q[0-9]*$	nearby-organizations		-1	success
+https://scholia.toolforge.org/author/Q97270	.*/author/Q[0-9]*$	venue-statistics		-1	success
+https://scholia.toolforge.org/author/Q97270	.*/author/Q[0-9]*$	most-cited-works		-1	success
+https://scholia.toolforge.org/author/Q97270	.*/author/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/author/Q97270	.*/author/Q[0-9]*$	citing-authors		-1	success
+https://scholia.toolforge.org/author/Q97270	.*/author/Q[0-9]*$	events		-1	success
+https://scholia.toolforge.org/author/Q97270	.*/author/Q[0-9]*$	iframe #1	Number of pages per year	4000	success
+https://scholia.toolforge.org/author/Q97270	.*/author/Q[0-9]*$	iframe #2	Venue statistics	5000	success
+https://scholia.toolforge.org/author/Q97270	.*/author/Q[0-9]*$	iframe #3	Co-author graph	5000	success
+https://scholia.toolforge.org/author/Q97270	.*/author/Q[0-9]*$	iframe #4	Topic scores	5000	success
+https://scholia.toolforge.org/author/Q97270	.*/author/Q[0-9]*$	iframe #6	Timeline	5000	success
+https://scholia.toolforge.org/author/Q97270	.*/author/Q[0-9]*$	iframe #7	Academic tree	6000	success
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	venue-statistics		-1	success
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	most-cited-works		-1	success
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	citing-authors		-1	success
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	events		-1	success
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #6	Timeline	6000	success
+https://scholia.toolforge.org/topic/Q41112	.*/topic/Q[0-9]*$	iframe #0	The topic in context	-1000	failure
+https://scholia.toolforge.org/topic/Q41112	.*/topic/Q[0-9]*$	iframe #4	Co-occurring topics map	-1000	failure
+https://scholia.toolforge.org/topic/Q41112	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic	-1000	failure
+https://scholia.toolforge.org/topic/Q41112	.*/topic/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/topic/Q41112	.*/topic/Q[0-9]*$	author-score		-1	success
+https://scholia.toolforge.org/topic/Q41112	.*/topic/Q[0-9]*$	iframe #1	Publications per year	7000	success
+https://scholia.toolforge.org/topic/Q41112	.*/topic/Q[0-9]*$	iframe #2	Co-author graph	7000	success
+https://scholia.toolforge.org/topic/Q41112	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph	6000	success
+https://scholia.toolforge.org/topic/Q41112	.*/topic/Q[0-9]*$	iframe #5	Author score	2000	success
+https://scholia.toolforge.org/topic/Q41112	.*/topic/Q[0-9]*$	iframe #7	Citation graph of works about the topic, aggregated by country	6000	success
+https://scholia.toolforge.org/clinical-trial/	.*/clinical-trial/	interventions		-1	success
+https://scholia.toolforge.org/clinical-trial/	.*/clinical-trial/	recent-clinical-trials		-1	success
+https://scholia.toolforge.org/clinical-trial/	.*/clinical-trial/	medical-conditions		-1	success
+https://scholia.toolforge.org/clinical-trial/	.*/clinical-trial/	statistics		-1	success
+https://scholia.toolforge.org/clinical-trial/	.*/clinical-trial/	iframe #0	Phases	11000	success
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #0	Number of publications per year	-1000	failure
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #2	Venue statistics	-1000	failure
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #4	Topic scores	-1000	failure
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	venue-statistics		-1	success
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	most-cited-works		-1	success
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	events		-1	success
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #1	Number of pages per year	7000	success
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #3	Co-author graph	2000	success
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #5	Associated images	8000	success
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #6	Timeline	7000	success
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #7	Academic tree	7000	success
+https://scholia.toolforge.org/organization/Q583725	.*/organization/Q[0-9]*$	awards		-1	success
+https://scholia.toolforge.org/organization/Q583725	.*/organization/Q[0-9]*$	gender-distribution		-1	success
+https://scholia.toolforge.org/organization/Q583725	.*/organization/Q[0-9]*$	recent-publications		-1	success
+https://scholia.toolforge.org/organization/Q583725	.*/organization/Q[0-9]*$	iframe #0	Co-author graph	8000	success
+https://scholia.toolforge.org/organization/Q583725	.*/organization/Q[0-9]*$	iframe #1	Advisor graph	8000	success
+https://scholia.toolforge.org/organization/Q583725	.*/organization/Q[0-9]*$	iframe #2	Page production	9000	success
+https://scholia.toolforge.org/organization/Q583725	.*/organization/Q[0-9]*$	iframe #3	Most cited papers with affiliated first author	8000	success
+https://scholia.toolforge.org/organization/Q583725	.*/organization/Q[0-9]*$	iframe #4	Co-author-normalized citations per year	7000	success
+https://scholia.toolforge.org/series/Q924044	.*/series/Q[0-9]*$	in-series		-1	success
+https://scholia.toolforge.org/series/Q924044	.*/series/Q[0-9]*$	published-works		-1	success
+https://scholia.toolforge.org/series/Q924044	.*/series/Q[0-9]*$	authors		-1	success
+https://scholia.toolforge.org/series/Q924044	.*/series/Q[0-9]*$	iframe #0	Topics	7000	success
+https://scholia.toolforge.org/series/Q924044	.*/series/Q[0-9]*$	iframe #1	Organizations	7000	success
+https://scholia.toolforge.org/publisher/Q583725	.*/publisher/Q[0-9]*$	journals		-1	success
+https://scholia.toolforge.org/publisher/Q583725	.*/publisher/Q[0-9]*$	iframe #0	Recently established journals	7000	success
+https://scholia.toolforge.org/publisher/Q583725	.*/publisher/Q[0-9]*$	iframe #1	As function of number of published works	8000	success
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	co-awards		-1	success
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	gender-distribution		-1	success
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	list-of-recipients		-1	success
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	iframe #0	Images of recipients	6000	success
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	iframe #1	Topics of works by recipients	3000	success
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	iframe #2	Locations of recipients	2000	success
+https://scholia.toolforge.org/disease/Q12156	.*/disease/Q[0-9]*$	related-diseases		-1	success
+https://scholia.toolforge.org/disease/Q12156	.*/disease/Q[0-9]*$	clinical-trials		-1	success
+https://scholia.toolforge.org/disease/Q12156	.*/disease/Q[0-9]*$	iframe #0	Publications per year	9000	success
+https://scholia.toolforge.org/event-series/	.*/event-series/	event-series		-1	success
+https://scholia.toolforge.org/topic/Q82069695	.*/topic/Q[0-9]*$	most-cited-authors		-1	success
+https://scholia.toolforge.org/topic/Q82069695	.*/topic/Q[0-9]*$	recently-published-works		-1	success
+https://scholia.toolforge.org/topic/Q82069695	.*/topic/Q[0-9]*$	topCited		-1	success
+https://scholia.toolforge.org/topic/Q82069695	.*/topic/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/topic/Q82069695	.*/topic/Q[0-9]*$	venues		-1	success
+https://scholia.toolforge.org/topic/Q82069695	.*/topic/Q[0-9]*$	authors		-1	success
+https://scholia.toolforge.org/topic/Q82069695	.*/topic/Q[0-9]*$	author-score		-1	success
+https://scholia.toolforge.org/topic/Q82069695	.*/topic/Q[0-9]*$	iframe #0	The topic in context	6000	success
+https://scholia.toolforge.org/topic/Q82069695	.*/topic/Q[0-9]*$	iframe #1	Publications per year	7000	success
+https://scholia.toolforge.org/topic/Q82069695	.*/topic/Q[0-9]*$	iframe #2	Co-author graph	7000	success
+https://scholia.toolforge.org/topic/Q82069695	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph	6000	success
+https://scholia.toolforge.org/topic/Q82069695	.*/topic/Q[0-9]*$	iframe #4	Co-occurring topics map	5000	success
+https://scholia.toolforge.org/topic/Q82069695	.*/topic/Q[0-9]*$	iframe #5	Author score	2000	success
+https://scholia.toolforge.org/topic/Q82069695	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic	7000	success
+https://scholia.toolforge.org/topic/Q82069695	.*/topic/Q[0-9]*$	iframe #7	Citation graph of works about the topic, aggregated by country	2000	success
+https://scholia.toolforge.org/project/Q27990087	.*/project/Q[0-9]*$	prolific-authors		-1	success
+https://scholia.toolforge.org/project/Q27990087	.*/project/Q[0-9]*$	recentArticles		-1	success
+https://scholia.toolforge.org/project/Q27990087	.*/project/Q[0-9]*$	iframe #0	Project Partners	4000	success
+https://scholia.toolforge.org/project/Q27990087	.*/project/Q[0-9]*$	iframe #1	Timeline	4000	success
+https://scholia.toolforge.org/project/Q27990087	.*/project/Q[0-9]*$	iframe #2	Topic scores	3000	success
+https://scholia.toolforge.org/project/Q27990087	.*/project/Q[0-9]*$	iframe #3	Publications per year	3000	success
+https://scholia.toolforge.org/author/random	_unknown	iframe #0	Number of publications per year	-1000	failure
+https://scholia.toolforge.org/author/random	_unknown	iframe #1	Number of pages per year	4000	success
+https://scholia.toolforge.org/author/random	_unknown	iframe #2	Venue statistics	6000	success
+https://scholia.toolforge.org/author/random	_unknown	iframe #3	Co-author graph	6000	success
+https://scholia.toolforge.org/author/random	_unknown	iframe #4	Topic scores	6000	success
+https://scholia.toolforge.org/author/random	_unknown	iframe #5	Associated images	6000	success
+https://scholia.toolforge.org/author/random	_unknown	iframe #6	Timeline	7000	success
+https://scholia.toolforge.org/author/random	_unknown	iframe #7	Academic tree	7000	success
+https://scholia.toolforge.org/country/Q668	.*/country/Q[0-9]*$	iframe #0	Locations as topics	-1000	failure
+https://scholia.toolforge.org/country/Q668	.*/country/Q[0-9]*$	iframe #1	Narrative locations	-1000	failure
+https://scholia.toolforge.org/country/Q668	.*/country/Q[0-9]*$	iframe #2	Co-organizations	-1000	failure
+https://scholia.toolforge.org/disease/Q41112	.*/disease/Q[0-9]*$	related-diseases		-1	success
+https://scholia.toolforge.org/disease/Q41112	.*/disease/Q[0-9]*$	clinical-trials		-1	success
+https://scholia.toolforge.org/disease/Q41112	.*/disease/Q[0-9]*$	iframe #0	Publications per year	21000	success
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph	-1000	failure
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	venues		-1	success
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	authors		-1	success
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	author-score		-1	success
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #0	The topic in context	7000	success
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #1	Publications per year	6000	success
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #2	Co-author graph	6000	success
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #4	Co-occurring topics map	6000	success
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #5	Author score	13000	success
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic	5000	success
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #0	Number of publications per year	-1000	failure
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	venue-statistics		-1	success
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	most-cited-works		-1	success
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	events		-1	success
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #1	Number of pages per year	6000	success
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #4	Topic scores	7000	success
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #5	Associated images	2000	success
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #6	Timeline	2000	success
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #7	Academic tree	2000	success
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #8	Locations	3000	success
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #9	Citations by year	4000	success
+https://scholia.toolforge.org/topic/Q583725	.*/topic/Q[0-9]*$	most-cited-authors		-1	success
+https://scholia.toolforge.org/topic/Q583725	.*/topic/Q[0-9]*$	topCited		-1	success
+https://scholia.toolforge.org/topic/Q583725	.*/topic/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/topic/Q583725	.*/topic/Q[0-9]*$	venues		-1	success
+https://scholia.toolforge.org/topic/Q583725	.*/topic/Q[0-9]*$	authors		-1	success
+https://scholia.toolforge.org/topic/Q583725	.*/topic/Q[0-9]*$	author-score		-1	success
+https://scholia.toolforge.org/topic/Q583725	.*/topic/Q[0-9]*$	iframe #0	The topic in context	6000	success
+https://scholia.toolforge.org/topic/Q583725	.*/topic/Q[0-9]*$	iframe #1	Publications per year	7000	success
+https://scholia.toolforge.org/topic/Q583725	.*/topic/Q[0-9]*$	iframe #2	Co-author graph	3000	success
+https://scholia.toolforge.org/topic/Q583725	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph	6000	success
+https://scholia.toolforge.org/topic/Q583725	.*/topic/Q[0-9]*$	iframe #4	Co-occurring topics map	7000	success
+https://scholia.toolforge.org/topic/Q583725	.*/topic/Q[0-9]*$	iframe #5	Author score	7000	success
+https://scholia.toolforge.org/topic/Q583725	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic	7000	success
+https://scholia.toolforge.org/topic/Q583725	.*/topic/Q[0-9]*$	iframe #7	Citation graph of works about the topic, aggregated by country	2000	success
+https://scholia.toolforge.org/sponsor/Q583725	.*/sponsor/Q[0-9]*$	co-sponsors		-1	success
+https://scholia.toolforge.org/sponsor/Q583725	.*/sponsor/Q[0-9]*$	recently-published-sponsored-work		-1	success
+https://scholia.toolforge.org/sponsor/Q583725	.*/sponsor/Q[0-9]*$	authors-on-sponsored-work		-1	success
+https://scholia.toolforge.org/sponsor/Q583725	.*/sponsor/Q[0-9]*$	iframe #0	Topics of sponsored work	7000	success
+https://scholia.toolforge.org/sponsor/Q583725	.*/sponsor/Q[0-9]*$	iframe #1	Project budgets	7000	success
+https://scholia.toolforge.org/chemical/Q2270	.*/chemical/Q[0-9]*$	related		-1	success
+https://scholia.toolforge.org/chemical/Q2270	.*/chemical/Q[0-9]*$	identifiers		-1	success
+https://scholia.toolforge.org/chemical/Q2270	.*/chemical/Q[0-9]*$	recentArticles		-1	success
+https://scholia.toolforge.org/chemical/Q2270	.*/chemical/Q[0-9]*$	structures		-1	success
+https://scholia.toolforge.org/chemical/Q2270	.*/chemical/Q[0-9]*$	properties		-1	success
+https://scholia.toolforge.org/chemical/Q2270	.*/chemical/Q[0-9]*$	iframe #0	Publications per year	4000	success
+https://scholia.toolforge.org/topic/Q84263196	.*/topic/Q[0-9]*$	topCited		-1	success
+https://scholia.toolforge.org/topic/Q84263196	.*/topic/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/topic/Q84263196	.*/topic/Q[0-9]*$	venues		-1	success
+https://scholia.toolforge.org/topic/Q84263196	.*/topic/Q[0-9]*$	authors		-1	success
+https://scholia.toolforge.org/topic/Q84263196	.*/topic/Q[0-9]*$	author-score		-1	success
+https://scholia.toolforge.org/topic/Q84263196	.*/topic/Q[0-9]*$	iframe #0	The topic in context	8000	success
+https://scholia.toolforge.org/topic/Q84263196	.*/topic/Q[0-9]*$	iframe #1	Publications per year	7000	success
+https://scholia.toolforge.org/topic/Q84263196	.*/topic/Q[0-9]*$	iframe #2	Co-author graph	6000	success
+https://scholia.toolforge.org/topic/Q84263196	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph	2000	success
+https://scholia.toolforge.org/topic/Q84263196	.*/topic/Q[0-9]*$	iframe #4	Co-occurring topics map	6000	success
+https://scholia.toolforge.org/topic/Q84263196	.*/topic/Q[0-9]*$	iframe #5	Author score	2000	success
+https://scholia.toolforge.org/topic/Q84263196	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic	2000	success
+https://scholia.toolforge.org/topic/Q84263196	.*/topic/Q[0-9]*$	iframe #7	Citation graph of works about the topic, aggregated by country	6000	success
+https://scholia.toolforge.org/disease/Q84263196	.*/disease/Q[0-9]*$	related-diseases		-1	success
+https://scholia.toolforge.org/disease/Q84263196	.*/disease/Q[0-9]*$	clinical-trials		-1	success
+https://scholia.toolforge.org/disease/Q84263196	.*/disease/Q[0-9]*$	iframe #0	Publications per year	6000	success
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	venues		-1	success
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	authors		-1	success
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	author-score		-1	success
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #0	The topic in context	5000	success
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #1	Publications per year	2000	success
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #2	Co-author graph	2000	success
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph	5000	success
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #5	Author score	5000	success
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic	7000	success
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #7	Citation graph of works about the topic, aggregated by country	7000	success
+https://scholia.toolforge.org/topic/Q81068910	.*/topic/Q[0-9]*$	most-cited-authors		-1	success
+https://scholia.toolforge.org/topic/Q81068910	.*/topic/Q[0-9]*$	recently-published-works		-1	success
+https://scholia.toolforge.org/topic/Q81068910	.*/topic/Q[0-9]*$	topCited		-1	success
+https://scholia.toolforge.org/topic/Q81068910	.*/topic/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/topic/Q81068910	.*/topic/Q[0-9]*$	authors		-1	success
+https://scholia.toolforge.org/topic/Q81068910	.*/topic/Q[0-9]*$	author-score		-1	success
+https://scholia.toolforge.org/topic/Q81068910	.*/topic/Q[0-9]*$	iframe #0	The topic in context	5000	success
+https://scholia.toolforge.org/topic/Q81068910	.*/topic/Q[0-9]*$	iframe #1	Publications per year	5000	success
+https://scholia.toolforge.org/topic/Q81068910	.*/topic/Q[0-9]*$	iframe #2	Co-author graph	5000	success
+https://scholia.toolforge.org/topic/Q81068910	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph	7000	success
+https://scholia.toolforge.org/topic/Q81068910	.*/topic/Q[0-9]*$	iframe #4	Co-occurring topics map	7000	success
+https://scholia.toolforge.org/topic/Q81068910	.*/topic/Q[0-9]*$	iframe #5	Author score	2000	success
+https://scholia.toolforge.org/topic/Q81068910	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic	3000	success
+https://scholia.toolforge.org/topic/Q81068910	.*/topic/Q[0-9]*$	iframe #7	Citation graph of works about the topic, aggregated by country	6000	success
+https://scholia.toolforge.org/chemical-element/Q623	.*/chemical-element/Q[0-9]*$	isotopes		-1	success
+https://scholia.toolforge.org/chemical-element/Q623	.*/chemical-element/Q[0-9]*$	allotropes		-1	success
+https://scholia.toolforge.org/topic/Q532	.*/topic/Q[0-9]*$	iframe #2	Co-author graph	-1000	failure
+https://scholia.toolforge.org/topic/Q532	.*/topic/Q[0-9]*$	iframe #5	Author score	-1000	failure
+https://scholia.toolforge.org/topic/Q532	.*/topic/Q[0-9]*$	iframe #7	Citation graph of works about the topic, aggregated by country	-1000	failure
+https://scholia.toolforge.org/topic/Q532	.*/topic/Q[0-9]*$	author-score		-1	success
+https://scholia.toolforge.org/topic/Q532	.*/topic/Q[0-9]*$	iframe #0	The topic in context	6000	success
+https://scholia.toolforge.org/topic/Q532	.*/topic/Q[0-9]*$	iframe #1	Publications per year	6000	success
+https://scholia.toolforge.org/topic/Q532	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph	7000	success
+https://scholia.toolforge.org/topic/Q532	.*/topic/Q[0-9]*$	iframe #4	Co-occurring topics map	7000	success
+https://scholia.toolforge.org/topic/Q532	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic	2000	success
+https://scholia.toolforge.org/organizations/Q1269766,Q193196	_unknown	iframe #0	Works per year	22000	success
+https://scholia.toolforge.org/organizations/Q1269766,Q193196	_unknown	iframe #1	Citations per year	22000	success
+https://scholia.toolforge.org/organizations/Q1269766,Q193196	_unknown	iframe #2	Citations to works ratio	25000	success
+https://scholia.toolforge.org/organizations/Q1269766,Q193196	_unknown	iframe #3	Topics	7000	success
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	iframe #4	Topic scores	-1000	failure
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	iframe #9	Citations by year	-1000	failure
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	venue-statistics		-1	success
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	most-cited-works		-1	success
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	citing-authors		-1	success
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	events		-1	success
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	iframe #0	Number of publications per year	7000	success
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	iframe #1	Number of pages per year	7000	success
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	iframe #2	Venue statistics	7000	success
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	iframe #5	Associated images	28000	success
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	iframe #6	Timeline	29000	success
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	iframe #7	Academic tree	29000	success
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	iframe #8	Locations	2000	success
+https://scholia.toolforge.org/topic/Q15	.*/topic/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/topic/Q15	.*/topic/Q[0-9]*$	author-score		-1	success
+https://scholia.toolforge.org/topic/Q15	.*/topic/Q[0-9]*$	iframe #0	The topic in context	7000	success
+https://scholia.toolforge.org/topic/Q15	.*/topic/Q[0-9]*$	iframe #1	Publications per year	2000	success
+https://scholia.toolforge.org/topic/Q15	.*/topic/Q[0-9]*$	iframe #2	Co-author graph	7000	success
+https://scholia.toolforge.org/topic/Q15	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph	2000	success
+https://scholia.toolforge.org/topic/Q15	.*/topic/Q[0-9]*$	iframe #4	Co-occurring topics map	5000	success
+https://scholia.toolforge.org/topic/Q15	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic	7000	success
+https://scholia.toolforge.org/topic/Q15	.*/topic/Q[0-9]*$	iframe #7	Citation graph of works about the topic, aggregated by country	7000	success
+https://scholia.toolforge.org/topic/Q52	.*/topic/Q[0-9]*$	recently-published-works		-1	success
+https://scholia.toolforge.org/topic/Q52	.*/topic/Q[0-9]*$	topCited		-1	success
+https://scholia.toolforge.org/topic/Q52	.*/topic/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/topic/Q52	.*/topic/Q[0-9]*$	venues		-1	success
+https://scholia.toolforge.org/topic/Q52	.*/topic/Q[0-9]*$	authors		-1	success
+https://scholia.toolforge.org/topic/Q52	.*/topic/Q[0-9]*$	author-score		-1	success
+https://scholia.toolforge.org/topic/Q52	.*/topic/Q[0-9]*$	iframe #0	The topic in context	6000	success
+https://scholia.toolforge.org/topic/Q52	.*/topic/Q[0-9]*$	iframe #1	Publications per year	7000	success
+https://scholia.toolforge.org/topic/Q52	.*/topic/Q[0-9]*$	iframe #2	Co-author graph	7000	success
+https://scholia.toolforge.org/topic/Q52	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph	2000	success
+https://scholia.toolforge.org/topic/Q52	.*/topic/Q[0-9]*$	iframe #4	Co-occurring topics map	2000	success
+https://scholia.toolforge.org/topic/Q52	.*/topic/Q[0-9]*$	iframe #5	Author score	5000	success
+https://scholia.toolforge.org/topic/Q52	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic	7000	success
+https://scholia.toolforge.org/topic/Q52	.*/topic/Q[0-9]*$	iframe #7	Citation graph of works about the topic, aggregated by country	2000	success
+https://scholia.toolforge.org/publisher/Q127992	.*/publisher/Q[0-9]*$	mostCited		-1	success
+https://scholia.toolforge.org/publisher/Q127992	.*/publisher/Q[0-9]*$	journals		-1	success
+https://scholia.toolforge.org/publisher/Q127992	.*/publisher/Q[0-9]*$	iframe #0	Recently established journals	9000	success
+https://scholia.toolforge.org/publisher/Q127992	.*/publisher/Q[0-9]*$	iframe #1	As function of number of published works	6000	success
+https://scholia.toolforge.org/event/	.*/event/	future-events		-1	success
+https://scholia.toolforge.org/event/	.*/event/	past-events		-1	success
+https://scholia.toolforge.org/event/	.*/event/	coming-deadlines		-1	success
+https://scholia.toolforge.org/printer/	.*/printer/	iframe #0	Map of printers	4000	success
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	iframe #5	Author score	-1000	failure
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic	-1000	failure
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	venues		-1	success
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	iframe #0	The topic in context	6000	success
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	iframe #1	Publications per year	2000	success
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	iframe #2	Co-author graph	2000	success
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph	9000	success
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	iframe #4	Co-occurring topics map	6000	success
+https://scholia.toolforge.org/work/Q21090025	.*/work/Q[0-9]*$	related-works		-1	success
+https://scholia.toolforge.org/work/Q21090025	.*/work/Q[0-9]*$	cited-works		-1	success
+https://scholia.toolforge.org/work/Q21090025	.*/work/Q[0-9]*$	statements		-1	success
+https://scholia.toolforge.org/work/Q21090025	.*/work/Q[0-9]*$	list-of-authors		-1	success
+https://scholia.toolforge.org/work/Q21090025	.*/work/Q[0-9]*$	citations-to-the-work		-1	success
+https://scholia.toolforge.org/work/Q21090025	.*/work/Q[0-9]*$	iframe #0	Topic scores	7000	success
+https://scholia.toolforge.org/work/Q21090025	.*/work/Q[0-9]*$	iframe #1	Timeline	6000	success
+https://scholia.toolforge.org/work/Q21090025	.*/work/Q[0-9]*$	iframe #2	Citation graph	7000	success
+https://scholia.toolforge.org/work/Q21090025	.*/work/Q[0-9]*$	iframe #3	Citations per year	7000	success
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	iframe #2	Co-author graph	-1000	failure
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph	-1000	failure
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	topCited		-1	success
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	venues		-1	success
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	author-score		-1	success
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	iframe #0	The topic in context	7000	success
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	iframe #1	Publications per year	7000	success
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	iframe #4	Co-occurring topics map	6000	success
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	iframe #5	Author score	5000	success
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic	2000	success
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	iframe #7	Citation graph of works about the topic, aggregated by country	2000	success
+https://scholia.toolforge.org/P577	_unknown	iframe #0	Item counts	-1000	failure
+https://scholia.toolforge.org/P577	_unknown	iframe #1	Property value counts	-1000	failure
