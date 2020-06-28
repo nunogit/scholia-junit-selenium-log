@@ -1,0 +1,30 @@
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	iframe #5	Author score
+https://scholia.toolforge.org/topic/Q668	.*/topic/Q[0-9]*$	iframe #7	Citation graph of works about the topic, aggregated by country
+https://scholia.toolforge.org/topic/Q12174	.*/topic/Q[0-9]*$	iframe #0	The topic in context
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #5	Author score
+https://scholia.toolforge.org/topic/Q29496	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/topic/Q30	.*/topic/Q[0-9]*$	iframe #3	Co-occurring topics graph
+https://scholia.toolforge.org/topic/Q111140	.*/topic/Q[0-9]*$	iframe #7	Citation graph of works about the topic, aggregated by country
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #1	Number of pages per year
+https://scholia.toolforge.org/author/Q55004959	.*/author/Q[0-9]*$	iframe #9	Citations by year
+https://scholia.toolforge.org/disease/Q41112	.*/disease/Q[0-9]*$	iframe #0	Publications per year
+https://scholia.toolforge.org/topic/Q12156	.*/topic/Q[0-9]*$	iframe #1	Publications per year
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #4	Topic scores
+https://scholia.toolforge.org/author/Q46826387	.*/author/Q[0-9]*$	iframe #7	Academic tree
+https://scholia.toolforge.org/topic/Q84263196	.*/topic/Q[0-9]*$	iframe #0	The topic in context
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #1	Publications per year
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #5	Author score
+https://scholia.toolforge.org/topic/Q1492760	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic
+https://scholia.toolforge.org/topic/Q532	.*/topic/Q[0-9]*$	iframe #5	Author score
+https://scholia.toolforge.org/topic/Q532	.*/topic/Q[0-9]*$	iframe #7	Citation graph of works about the topic, aggregated by country
+https://scholia.toolforge.org/organizations/Q1269766,Q193196	_unknown	iframe #2	Citations to works ratio
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	iframe #0	Number of publications per year
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	iframe #1	Number of pages per year
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	iframe #3	Co-author graph
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	iframe #4	Topic scores
+https://scholia.toolforge.org/author/Q29253985	.*/author/Q[0-9]*$	iframe #8	Locations
+https://scholia.toolforge.org/topic/Q52	.*/topic/Q[0-9]*$	iframe #1	Publications per year
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	iframe #1	Publications per year
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	iframe #2	Co-author graph
+https://scholia.toolforge.org/topic/Q181600	.*/topic/Q[0-9]*$	iframe #4	Co-occurring topics map
+https://scholia.toolforge.org/topic/Q180556	.*/topic/Q[0-9]*$	iframe #6	Map of organizations associated with works about the topic
