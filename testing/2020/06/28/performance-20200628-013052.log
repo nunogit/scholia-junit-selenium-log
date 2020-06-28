@@ -1,0 +1,28 @@
+Iteration: 897.0 Runtime: 381.0 2020/06/28
+https://scholia.toolforge.org/organizations/Q1269766,Q193196	_unknown	iframe #0	Works per year	-1000	failure
+https://scholia.toolforge.org/organizations/Q1269766,Q193196	_unknown	iframe #1	Citations per year	-1000	failure
+https://scholia.toolforge.org/organizations/Q1269766,Q193196	_unknown	iframe #2	Citations to works ratio	-1000	failure
+https://scholia.toolforge.org/organizations/Q1269766,Q193196	_unknown	iframe #3	Topics	-1000	failure
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #0	Number of publications per year	-1000	failure
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #1	Number of pages per year	-1000	failure
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #2	Venue statistics	-1000	failure
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #3	Co-author graph	-1000	failure
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #4	Topic scores	-1000	failure
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #5	Associated images	-1000	failure
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #6	Timeline	-1000	failure
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #7	Academic tree	-1000	failure
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #8	Locations	-1000	failure
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #9	Citations by year	-1000	failure
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	list-of-publications		-1	success
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	venue-statistics		-1	success
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	most-cited-works		-1	success
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	topics		-1	success
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	citing-authors		-1	success
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	events		-1	success
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	iframe #0	Images of recipients	-1000	failure
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	iframe #1	Topics of works by recipients	-1000	failure
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	iframe #2	Locations of recipients	-1000	failure
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	co-awards		-1	success
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	gender-distribution		-1	success
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	recent-publications-by-recipients		-1	success
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	list-of-recipients		-1	success
