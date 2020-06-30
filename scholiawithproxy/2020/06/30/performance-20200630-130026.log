@@ -1,0 +1,473 @@
+Iteration: 42.0 Runtime: 5753.0 2020/06/30
+http://scholiawithproxy.duckdns.org/location/Q668	.*/location/Q[0-9]*$	84	2298	nearby-organizations		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q41112	.*/topic/Q[0-9]*$	197	5168	recently-published-works		-1000	failure
+http://scholiawithproxy.duckdns.org/topic/Q41112	.*/topic/Q[0-9]*$	197	5168	topCited		-1000	failure
+http://scholiawithproxy.duckdns.org/topic/Q41112	.*/topic/Q[0-9]*$	197	5168	most-cited-authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q41112	.*/topic/Q[0-9]*$	197	5168	topics		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q41112	.*/topic/Q[0-9]*$	197	5168	venues		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q41112	.*/topic/Q[0-9]*$	197	5168	authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q41112	.*/topic/Q[0-9]*$	197	5168	author-score		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q41112	.*/topic/Q[0-9]*$	197	5168	iframe #0	Publications per year	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q41112	.*/topic/Q[0-9]*$	197	5168	iframe #1	Co-author graph	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q41112	.*/topic/Q[0-9]*$	197	5168	iframe #2	Co-occurring topics graph	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q41112	.*/topic/Q[0-9]*$	197	5168	iframe #3	Co-occurring topics map	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q41112	.*/topic/Q[0-9]*$	197	5168	iframe #4	Author score	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q41112	.*/topic/Q[0-9]*$	197	5168	iframe #5	Map of organizations associated with works about the topic	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q1492760	.*/topic/Q[0-9]*$	161	23262	topCited		-1000	failure
+http://scholiawithproxy.duckdns.org/topic/Q1492760	.*/topic/Q[0-9]*$	161	23262	author-score		-1000	failure
+http://scholiawithproxy.duckdns.org/topic/Q1492760	.*/topic/Q[0-9]*$	161	23262	most-cited-authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q1492760	.*/topic/Q[0-9]*$	161	23262	recently-published-works		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q1492760	.*/topic/Q[0-9]*$	161	23262	topics		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q1492760	.*/topic/Q[0-9]*$	161	23262	venues		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q1492760	.*/topic/Q[0-9]*$	161	23262	authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q1492760	.*/topic/Q[0-9]*$	161	23262	iframe #0	Publications per year	8000	success
+http://scholiawithproxy.duckdns.org/topic/Q1492760	.*/topic/Q[0-9]*$	161	23262	iframe #1	Co-author graph	8000	success
+http://scholiawithproxy.duckdns.org/topic/Q1492760	.*/topic/Q[0-9]*$	161	23262	iframe #2	Co-occurring topics graph	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q1492760	.*/topic/Q[0-9]*$	161	23262	iframe #3	Co-occurring topics map	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q1492760	.*/topic/Q[0-9]*$	161	23262	iframe #4	Author score	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q1492760	.*/topic/Q[0-9]*$	161	23262	iframe #5	Map of organizations associated with works about the topic	6000	success
+http://scholiawithproxy.duckdns.org/disease/Q84263196	.*/disease/Q[0-9]*$	101	2105	related-diseases		-1000	success
+http://scholiawithproxy.duckdns.org/disease/Q84263196	.*/disease/Q[0-9]*$	101	2105	clinical-trials		-1000	success
+http://scholiawithproxy.duckdns.org/disease/Q84263196	.*/disease/Q[0-9]*$	101	2105	iframe #0	Publications per year	8000	success
+http://scholiawithproxy.duckdns.org/topic/Q81068910	.*/topic/Q[0-9]*$	191	6677	most-cited-authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q81068910	.*/topic/Q[0-9]*$	191	6677	recently-published-works		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q81068910	.*/topic/Q[0-9]*$	191	6677	topCited		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q81068910	.*/topic/Q[0-9]*$	191	6677	topics		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q81068910	.*/topic/Q[0-9]*$	191	6677	venues		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q81068910	.*/topic/Q[0-9]*$	191	6677	authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q81068910	.*/topic/Q[0-9]*$	191	6677	author-score		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q81068910	.*/topic/Q[0-9]*$	191	6677	iframe #0	Publications per year	8000	success
+http://scholiawithproxy.duckdns.org/topic/Q81068910	.*/topic/Q[0-9]*$	191	6677	iframe #1	Co-author graph	8000	success
+http://scholiawithproxy.duckdns.org/topic/Q81068910	.*/topic/Q[0-9]*$	191	6677	iframe #2	Co-occurring topics graph	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q81068910	.*/topic/Q[0-9]*$	191	6677	iframe #3	Co-occurring topics map	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q81068910	.*/topic/Q[0-9]*$	191	6677	iframe #4	Author score	8000	success
+http://scholiawithproxy.duckdns.org/topic/Q81068910	.*/topic/Q[0-9]*$	191	6677	iframe #5	Map of organizations associated with works about the topic	8000	success
+http://scholiawithproxy.duckdns.org/topic/Q82069695	.*/topic/Q[0-9]*$	51	1706	most-cited-authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q82069695	.*/topic/Q[0-9]*$	51	1706	recently-published-works		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q82069695	.*/topic/Q[0-9]*$	51	1706	topCited		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q82069695	.*/topic/Q[0-9]*$	51	1706	topics		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q82069695	.*/topic/Q[0-9]*$	51	1706	venues		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q82069695	.*/topic/Q[0-9]*$	51	1706	authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q82069695	.*/topic/Q[0-9]*$	51	1706	author-score		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q82069695	.*/topic/Q[0-9]*$	51	1706	iframe #0	Publications per year	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q82069695	.*/topic/Q[0-9]*$	51	1706	iframe #1	Co-author graph	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q82069695	.*/topic/Q[0-9]*$	51	1706	iframe #2	Co-occurring topics graph	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q82069695	.*/topic/Q[0-9]*$	51	1706	iframe #3	Co-occurring topics map	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q82069695	.*/topic/Q[0-9]*$	51	1706	iframe #4	Author score	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q82069695	.*/topic/Q[0-9]*$	51	1706	iframe #5	Map of organizations associated with works about the topic	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q12156	.*/topic/Q[0-9]*$	51	21503	recently-published-works		-1000	failure
+http://scholiawithproxy.duckdns.org/topic/Q12156	.*/topic/Q[0-9]*$	51	21503	most-cited-authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q12156	.*/topic/Q[0-9]*$	51	21503	topCited		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q12156	.*/topic/Q[0-9]*$	51	21503	topics		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q12156	.*/topic/Q[0-9]*$	51	21503	venues		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q12156	.*/topic/Q[0-9]*$	51	21503	authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q12156	.*/topic/Q[0-9]*$	51	21503	author-score		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q12156	.*/topic/Q[0-9]*$	51	21503	iframe #0	Publications per year	3000	success
+http://scholiawithproxy.duckdns.org/topic/Q12156	.*/topic/Q[0-9]*$	51	21503	iframe #1	Co-author graph	3000	success
+http://scholiawithproxy.duckdns.org/topic/Q12156	.*/topic/Q[0-9]*$	51	21503	iframe #2	Co-occurring topics graph	3000	success
+http://scholiawithproxy.duckdns.org/topic/Q12156	.*/topic/Q[0-9]*$	51	21503	iframe #3	Co-occurring topics map	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q12156	.*/topic/Q[0-9]*$	51	21503	iframe #4	Author score	3000	success
+http://scholiawithproxy.duckdns.org/topic/Q12156	.*/topic/Q[0-9]*$	51	21503	iframe #5	Map of organizations associated with works about the topic	3000	success
+http://scholiawithproxy.duckdns.org/country/Q668	.*/country/Q[0-9]*$	88	4907	iframe #0	Locations as topics	-1000	failure
+http://scholiawithproxy.duckdns.org/country/Q668	.*/country/Q[0-9]*$	88	4907	iframe #1	Narrative locations	-1000	failure
+http://scholiawithproxy.duckdns.org/country/Q668	.*/country/Q[0-9]*$	88	4907	iframe #2	Co-organizations	-1000	failure
+http://scholiawithproxy.duckdns.org/clinical-trial/	.*/clinical-trial/	110	2259	interventions		-1000	success
+http://scholiawithproxy.duckdns.org/clinical-trial/	.*/clinical-trial/	110	2259	recent-clinical-trials		-1000	success
+http://scholiawithproxy.duckdns.org/clinical-trial/	.*/clinical-trial/	110	2259	medical-conditions		-1000	success
+http://scholiawithproxy.duckdns.org/clinical-trial/	.*/clinical-trial/	110	2259	statistics		-1000	success
+http://scholiawithproxy.duckdns.org/clinical-trial/	.*/clinical-trial/	110	2259	iframe #0	Phases	8000	success
+http://scholiawithproxy.duckdns.org/topic/Q30	.*/topic/Q[0-9]*$	125	8312	recently-published-works		-1000	failure
+http://scholiawithproxy.duckdns.org/topic/Q30	.*/topic/Q[0-9]*$	125	8312	most-cited-authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q30	.*/topic/Q[0-9]*$	125	8312	topCited		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q30	.*/topic/Q[0-9]*$	125	8312	topics		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q30	.*/topic/Q[0-9]*$	125	8312	venues		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q30	.*/topic/Q[0-9]*$	125	8312	authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q30	.*/topic/Q[0-9]*$	125	8312	author-score		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q30	.*/topic/Q[0-9]*$	125	8312	iframe #0	Publications per year	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q30	.*/topic/Q[0-9]*$	125	8312	iframe #1	Co-author graph	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q30	.*/topic/Q[0-9]*$	125	8312	iframe #2	Co-occurring topics graph	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q30	.*/topic/Q[0-9]*$	125	8312	iframe #3	Co-occurring topics map	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q30	.*/topic/Q[0-9]*$	125	8312	iframe #4	Author score	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q30	.*/topic/Q[0-9]*$	125	8312	iframe #5	Map of organizations associated with works about the topic	2000	success
+http://scholiawithproxy.duckdns.org/author/Q46826387	.*/author/Q[0-9]*$	373	10969	list-of-publications		-1000	failure
+http://scholiawithproxy.duckdns.org/author/Q46826387	.*/author/Q[0-9]*$	373	10969	venue-statistics		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q46826387	.*/author/Q[0-9]*$	373	10969	most-cited-works		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q46826387	.*/author/Q[0-9]*$	373	10969	topics		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q46826387	.*/author/Q[0-9]*$	373	10969	citing-authors		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q46826387	.*/author/Q[0-9]*$	373	10969	events		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q46826387	.*/author/Q[0-9]*$	373	10969	iframe #0	Number of publications per year	3000	success
+http://scholiawithproxy.duckdns.org/author/Q46826387	.*/author/Q[0-9]*$	373	10969	iframe #1	Number of pages per year	2000	success
+http://scholiawithproxy.duckdns.org/author/Q46826387	.*/author/Q[0-9]*$	373	10969	iframe #2	Venue statistics	3000	success
+http://scholiawithproxy.duckdns.org/author/Q46826387	.*/author/Q[0-9]*$	373	10969	iframe #3	Co-author graph	3000	success
+http://scholiawithproxy.duckdns.org/author/Q46826387	.*/author/Q[0-9]*$	373	10969	iframe #4	Topic scores	3000	success
+http://scholiawithproxy.duckdns.org/author/Q46826387	.*/author/Q[0-9]*$	373	10969	iframe #5	Associated images	2000	success
+http://scholiawithproxy.duckdns.org/author/Q46826387	.*/author/Q[0-9]*$	373	10969	iframe #6	Timeline	3000	success
+http://scholiawithproxy.duckdns.org/author/Q46826387	.*/author/Q[0-9]*$	373	10969	iframe #7	Academic tree	2000	success
+http://scholiawithproxy.duckdns.org/author/Q46826387	.*/author/Q[0-9]*$	373	10969	iframe #8	Locations	2000	success
+http://scholiawithproxy.duckdns.org/author/Q46826387	.*/author/Q[0-9]*$	373	10969	iframe #9	Citations by year	2000	success
+http://scholiawithproxy.duckdns.org/disease/Q41112	.*/disease/Q[0-9]*$	102	2814	related-diseases		-1000	success
+http://scholiawithproxy.duckdns.org/disease/Q41112	.*/disease/Q[0-9]*$	102	2814	clinical-trials		-1000	success
+http://scholiawithproxy.duckdns.org/disease/Q41112	.*/disease/Q[0-9]*$	102	2814	iframe #0	Publications per year	8000	success
+http://scholiawithproxy.duckdns.org/use/Q5140318	.*/use/Q[0-9]*$	52	4331	recent-work-using-the-used		-1000	success
+http://scholiawithproxy.duckdns.org/use/Q5140318	.*/use/Q[0-9]*$	52	4331	co-used		-1000	success
+http://scholiawithproxy.duckdns.org/use/Q5140318	.*/use/Q[0-9]*$	52	4331	iframe #0	Topics of works using the resource	8000	success
+http://scholiawithproxy.duckdns.org/use/Q5140318	.*/use/Q[0-9]*$	52	4331	iframe #1	Authors of works using the resource	7000	success
+http://scholiawithproxy.duckdns.org/use/Q5140318	.*/use/Q[0-9]*$	52	4331	iframe #2	Usage over time	8000	success
+http://scholiawithproxy.duckdns.org/location/Q5465	.*/location/Q[0-9]*$	119	1115	nearby-organizations		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q111140	.*/topic/Q[0-9]*$	139	8480	topCited		-1000	failure
+http://scholiawithproxy.duckdns.org/topic/Q111140	.*/topic/Q[0-9]*$	139	8480	most-cited-authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q111140	.*/topic/Q[0-9]*$	139	8480	recently-published-works		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q111140	.*/topic/Q[0-9]*$	139	8480	topics		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q111140	.*/topic/Q[0-9]*$	139	8480	venues		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q111140	.*/topic/Q[0-9]*$	139	8480	authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q111140	.*/topic/Q[0-9]*$	139	8480	author-score		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q111140	.*/topic/Q[0-9]*$	139	8480	iframe #0	Publications per year	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q111140	.*/topic/Q[0-9]*$	139	8480	iframe #1	Co-author graph	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q111140	.*/topic/Q[0-9]*$	139	8480	iframe #2	Co-occurring topics graph	8000	success
+http://scholiawithproxy.duckdns.org/topic/Q111140	.*/topic/Q[0-9]*$	139	8480	iframe #3	Co-occurring topics map	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q111140	.*/topic/Q[0-9]*$	139	8480	iframe #4	Author score	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q111140	.*/topic/Q[0-9]*$	139	8480	iframe #5	Map of organizations associated with works about the topic	6000	success
+http://scholiawithproxy.duckdns.org/country/Q35	.*/country/Q[0-9]*$	81	5105	iframe #0	Locations as topics	7000	success
+http://scholiawithproxy.duckdns.org/country/Q35	.*/country/Q[0-9]*$	81	5105	iframe #1	Narrative locations	7000	success
+http://scholiawithproxy.duckdns.org/country/Q35	.*/country/Q[0-9]*$	81	5105	iframe #2	Co-organizations	7000	success
+http://scholiawithproxy.duckdns.org/sponsor/Q4314967	.*/sponsor/Q[0-9]*$	87	3502	iframe #0	Topics of sponsored work	-1000	failure
+http://scholiawithproxy.duckdns.org/sponsor/Q4314967	.*/sponsor/Q[0-9]*$	87	3502	iframe #1	Project budgets	-1000	failure
+http://scholiawithproxy.duckdns.org/sponsor/Q4314967	.*/sponsor/Q[0-9]*$	87	3502	co-sponsors		-1000	success
+http://scholiawithproxy.duckdns.org/sponsor/Q4314967	.*/sponsor/Q[0-9]*$	87	3502	recently-published-sponsored-work		-1000	success
+http://scholiawithproxy.duckdns.org/sponsor/Q4314967	.*/sponsor/Q[0-9]*$	87	3502	authors-on-sponsored-work		-1000	success
+http://scholiawithproxy.duckdns.org/taxon/Q82069695	.*/taxon/Q[0-9]*$	90	2238	genome		-1000	success
+http://scholiawithproxy.duckdns.org/taxon/Q82069695	.*/taxon/Q[0-9]*$	90	2238	metabolome		-1000	success
+http://scholiawithproxy.duckdns.org/taxon/Q82069695	.*/taxon/Q[0-9]*$	90	2238	parents		-1000	success
+http://scholiawithproxy.duckdns.org/taxon/Q82069695	.*/taxon/Q[0-9]*$	90	2238	iframe #0	Parent Taxa	8000	success
+http://scholiawithproxy.duckdns.org/topic/Q532	.*/topic/Q[0-9]*$	93	20191	most-cited-authors		-1000	failure
+http://scholiawithproxy.duckdns.org/topic/Q532	.*/topic/Q[0-9]*$	93	20191	recently-published-works		-1000	failure
+http://scholiawithproxy.duckdns.org/topic/Q532	.*/topic/Q[0-9]*$	93	20191	topCited		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q532	.*/topic/Q[0-9]*$	93	20191	topics		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q532	.*/topic/Q[0-9]*$	93	20191	venues		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q532	.*/topic/Q[0-9]*$	93	20191	authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q532	.*/topic/Q[0-9]*$	93	20191	author-score		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q532	.*/topic/Q[0-9]*$	93	20191	iframe #0	Publications per year	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q532	.*/topic/Q[0-9]*$	93	20191	iframe #1	Co-author graph	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q532	.*/topic/Q[0-9]*$	93	20191	iframe #2	Co-occurring topics graph	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q532	.*/topic/Q[0-9]*$	93	20191	iframe #3	Co-occurring topics map	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q532	.*/topic/Q[0-9]*$	93	20191	iframe #4	Author score	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q532	.*/topic/Q[0-9]*$	93	20191	iframe #5	Map of organizations associated with works about the topic	2000	success
+http://scholiawithproxy.duckdns.org/author/Q583725	.*/author/Q[0-9]*$	148	2570	list-of-publications		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q583725	.*/author/Q[0-9]*$	148	2570	venue-statistics		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q583725	.*/author/Q[0-9]*$	148	2570	most-cited-works		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q583725	.*/author/Q[0-9]*$	148	2570	topics		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q583725	.*/author/Q[0-9]*$	148	2570	citing-authors		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q583725	.*/author/Q[0-9]*$	148	2570	events		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q583725	.*/author/Q[0-9]*$	148	2570	iframe #0	Number of publications per year	6000	success
+http://scholiawithproxy.duckdns.org/author/Q583725	.*/author/Q[0-9]*$	148	2570	iframe #1	Number of pages per year	6000	success
+http://scholiawithproxy.duckdns.org/author/Q583725	.*/author/Q[0-9]*$	148	2570	iframe #2	Venue statistics	6000	success
+http://scholiawithproxy.duckdns.org/author/Q583725	.*/author/Q[0-9]*$	148	2570	iframe #3	Co-author graph	5000	success
+http://scholiawithproxy.duckdns.org/author/Q583725	.*/author/Q[0-9]*$	148	2570	iframe #4	Topic scores	6000	success
+http://scholiawithproxy.duckdns.org/author/Q583725	.*/author/Q[0-9]*$	148	2570	iframe #5	Associated images	7000	success
+http://scholiawithproxy.duckdns.org/author/Q583725	.*/author/Q[0-9]*$	148	2570	iframe #6	Timeline	7000	success
+http://scholiawithproxy.duckdns.org/author/Q583725	.*/author/Q[0-9]*$	148	2570	iframe #7	Academic tree	5000	success
+http://scholiawithproxy.duckdns.org/author/Q583725	.*/author/Q[0-9]*$	148	2570	iframe #8	Locations	6000	success
+http://scholiawithproxy.duckdns.org/author/Q583725	.*/author/Q[0-9]*$	148	2570	iframe #9	Citations by year	5000	success
+http://scholiawithproxy.duckdns.org/catalogue/Q42661788	.*/catalogue/Q[0-9]*$	82	1903	items-in-catalogue		-1000	success
+http://scholiawithproxy.duckdns.org/catalogue/Q42661788	.*/catalogue/Q[0-9]*$	82	1903	iframe #0	Images	8000	success
+http://scholiawithproxy.duckdns.org/author/Q55004959	.*/author/Q[0-9]*$	129	2574	list-of-publications		-1000	failure
+http://scholiawithproxy.duckdns.org/author/Q55004959	.*/author/Q[0-9]*$	129	2574	venue-statistics		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q55004959	.*/author/Q[0-9]*$	129	2574	most-cited-works		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q55004959	.*/author/Q[0-9]*$	129	2574	topics		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q55004959	.*/author/Q[0-9]*$	129	2574	citing-authors		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q55004959	.*/author/Q[0-9]*$	129	2574	events		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q55004959	.*/author/Q[0-9]*$	129	2574	iframe #0	Number of publications per year	2000	success
+http://scholiawithproxy.duckdns.org/author/Q55004959	.*/author/Q[0-9]*$	129	2574	iframe #1	Number of pages per year	2000	success
+http://scholiawithproxy.duckdns.org/author/Q55004959	.*/author/Q[0-9]*$	129	2574	iframe #2	Venue statistics	3000	success
+http://scholiawithproxy.duckdns.org/author/Q55004959	.*/author/Q[0-9]*$	129	2574	iframe #3	Co-author graph	2000	success
+http://scholiawithproxy.duckdns.org/author/Q55004959	.*/author/Q[0-9]*$	129	2574	iframe #4	Topic scores	2000	success
+http://scholiawithproxy.duckdns.org/author/Q55004959	.*/author/Q[0-9]*$	129	2574	iframe #5	Associated images	2000	success
+http://scholiawithproxy.duckdns.org/author/Q55004959	.*/author/Q[0-9]*$	129	2574	iframe #6	Timeline	2000	success
+http://scholiawithproxy.duckdns.org/author/Q55004959	.*/author/Q[0-9]*$	129	2574	iframe #7	Academic tree	2000	success
+http://scholiawithproxy.duckdns.org/author/Q55004959	.*/author/Q[0-9]*$	129	2574	iframe #8	Locations	2000	success
+http://scholiawithproxy.duckdns.org/author/Q55004959	.*/author/Q[0-9]*$	129	2574	iframe #9	Citations by year	2000	success
+http://scholiawithproxy.duckdns.org/chemical-element/Q623	.*/chemical-element/Q[0-9]*$	83	1181	isotopes		-1000	success
+http://scholiawithproxy.duckdns.org/chemical-element/Q623	.*/chemical-element/Q[0-9]*$	83	1181	allotropes		-1000	success
+http://scholiawithproxy.duckdns.org/chemical/Q2270	.*/chemical/Q[0-9]*$	313	2448	related		-1000	success
+http://scholiawithproxy.duckdns.org/chemical/Q2270	.*/chemical/Q[0-9]*$	313	2448	identifiers		-1000	success
+http://scholiawithproxy.duckdns.org/chemical/Q2270	.*/chemical/Q[0-9]*$	313	2448	recentArticles		-1000	success
+http://scholiawithproxy.duckdns.org/chemical/Q2270	.*/chemical/Q[0-9]*$	313	2448	structures		-1000	success
+http://scholiawithproxy.duckdns.org/chemical/Q2270	.*/chemical/Q[0-9]*$	313	2448	properties		-1000	success
+http://scholiawithproxy.duckdns.org/chemical/Q2270	.*/chemical/Q[0-9]*$	313	2448	iframe #0	Publications per year	8000	success
+http://scholiawithproxy.duckdns.org/topic/Q29496	.*/topic/Q[0-9]*$	129	1531	topCited		-1000	failure
+http://scholiawithproxy.duckdns.org/topic/Q29496	.*/topic/Q[0-9]*$	129	1531	most-cited-authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q29496	.*/topic/Q[0-9]*$	129	1531	recently-published-works		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q29496	.*/topic/Q[0-9]*$	129	1531	topics		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q29496	.*/topic/Q[0-9]*$	129	1531	venues		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q29496	.*/topic/Q[0-9]*$	129	1531	authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q29496	.*/topic/Q[0-9]*$	129	1531	author-score		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q29496	.*/topic/Q[0-9]*$	129	1531	iframe #0	Publications per year	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q29496	.*/topic/Q[0-9]*$	129	1531	iframe #1	Co-author graph	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q29496	.*/topic/Q[0-9]*$	129	1531	iframe #2	Co-occurring topics graph	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q29496	.*/topic/Q[0-9]*$	129	1531	iframe #3	Co-occurring topics map	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q29496	.*/topic/Q[0-9]*$	129	1531	iframe #4	Author score	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q29496	.*/topic/Q[0-9]*$	129	1531	iframe #5	Map of organizations associated with works about the topic	8000	success
+http://scholiawithproxy.duckdns.org/chemical-class/Q41581	.*/chemical-class/Q[0-9]*$	84	3190	iframe #0	Class Hierarchy	3000	success
+http://scholiawithproxy.duckdns.org/chemical-class/Q41581	.*/chemical-class/Q[0-9]*$	84	3190	iframe #1	Publications per year	3000	success
+http://scholiawithproxy.duckdns.org/topic/Q64	.*/topic/Q[0-9]*$	165	8646	most-cited-authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q64	.*/topic/Q[0-9]*$	165	8646	recently-published-works		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q64	.*/topic/Q[0-9]*$	165	8646	topCited		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q64	.*/topic/Q[0-9]*$	165	8646	topics		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q64	.*/topic/Q[0-9]*$	165	8646	venues		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q64	.*/topic/Q[0-9]*$	165	8646	authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q64	.*/topic/Q[0-9]*$	165	8646	author-score		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q64	.*/topic/Q[0-9]*$	165	8646	iframe #0	Publications per year	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q64	.*/topic/Q[0-9]*$	165	8646	iframe #1	Co-author graph	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q64	.*/topic/Q[0-9]*$	165	8646	iframe #2	Co-occurring topics graph	8000	success
+http://scholiawithproxy.duckdns.org/topic/Q64	.*/topic/Q[0-9]*$	165	8646	iframe #3	Co-occurring topics map	8000	success
+http://scholiawithproxy.duckdns.org/topic/Q64	.*/topic/Q[0-9]*$	165	8646	iframe #4	Author score	8000	success
+http://scholiawithproxy.duckdns.org/topic/Q64	.*/topic/Q[0-9]*$	165	8646	iframe #5	Map of organizations associated with works about the topic	8000	success
+http://scholiawithproxy.duckdns.org/organization/Q583725	.*/organization/Q[0-9]*$	54	1474	recent-citations		-1000	failure
+http://scholiawithproxy.duckdns.org/organization/Q583725	.*/organization/Q[0-9]*$	54	1474	awards		-1000	success
+http://scholiawithproxy.duckdns.org/organization/Q583725	.*/organization/Q[0-9]*$	54	1474	gender-distribution		-1000	success
+http://scholiawithproxy.duckdns.org/organization/Q583725	.*/organization/Q[0-9]*$	54	1474	recent-publications		-1000	success
+http://scholiawithproxy.duckdns.org/organization/Q583725	.*/organization/Q[0-9]*$	54	1474	iframe #0	Co-author graph	7000	success
+http://scholiawithproxy.duckdns.org/organization/Q583725	.*/organization/Q[0-9]*$	54	1474	iframe #1	Advisor graph	7000	success
+http://scholiawithproxy.duckdns.org/organization/Q583725	.*/organization/Q[0-9]*$	54	1474	iframe #2	Page production	7000	success
+http://scholiawithproxy.duckdns.org/organization/Q583725	.*/organization/Q[0-9]*$	54	1474	iframe #3	Most cited papers with affiliated first author	7000	success
+http://scholiawithproxy.duckdns.org/organization/Q583725	.*/organization/Q[0-9]*$	54	1474	iframe #4	Co-author-normalized citations per year	7000	success
+http://scholiawithproxy.duckdns.org/project/Q27990087	.*/project/Q[0-9]*$	55	1203	prolific-authors		-1000	success
+http://scholiawithproxy.duckdns.org/project/Q27990087	.*/project/Q[0-9]*$	55	1203	recentArticles		-1000	success
+http://scholiawithproxy.duckdns.org/project/Q27990087	.*/project/Q[0-9]*$	55	1203	iframe #0	Project Partners	3000	success
+http://scholiawithproxy.duckdns.org/project/Q27990087	.*/project/Q[0-9]*$	55	1203	iframe #1	Timeline	3000	success
+http://scholiawithproxy.duckdns.org/project/Q27990087	.*/project/Q[0-9]*$	55	1203	iframe #2	Topic scores	3000	success
+http://scholiawithproxy.duckdns.org/project/Q27990087	.*/project/Q[0-9]*$	55	1203	iframe #3	Publications per year	3000	success
+http://scholiawithproxy.duckdns.org/series/Q924044	.*/series/Q[0-9]*$	139	3637	in-series		-1000	success
+http://scholiawithproxy.duckdns.org/series/Q924044	.*/series/Q[0-9]*$	139	3637	published-works		-1000	success
+http://scholiawithproxy.duckdns.org/series/Q924044	.*/series/Q[0-9]*$	139	3637	authors		-1000	success
+http://scholiawithproxy.duckdns.org/series/Q924044	.*/series/Q[0-9]*$	139	3637	iframe #0	Topics	8000	success
+http://scholiawithproxy.duckdns.org/series/Q924044	.*/series/Q[0-9]*$	139	3637	iframe #1	Organizations	8000	success
+http://scholiawithproxy.duckdns.org/topic/Q12174	.*/topic/Q[0-9]*$	129	1650	most-cited-authors		-1000	failure
+http://scholiawithproxy.duckdns.org/topic/Q12174	.*/topic/Q[0-9]*$	129	1650	topCited		-1000	failure
+http://scholiawithproxy.duckdns.org/topic/Q12174	.*/topic/Q[0-9]*$	129	1650	author-score		-1000	failure
+http://scholiawithproxy.duckdns.org/topic/Q12174	.*/topic/Q[0-9]*$	129	1650	recently-published-works		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q12174	.*/topic/Q[0-9]*$	129	1650	topics		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q12174	.*/topic/Q[0-9]*$	129	1650	venues		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q12174	.*/topic/Q[0-9]*$	129	1650	authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q12174	.*/topic/Q[0-9]*$	129	1650	iframe #0	Publications per year	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q12174	.*/topic/Q[0-9]*$	129	1650	iframe #1	Co-author graph	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q12174	.*/topic/Q[0-9]*$	129	1650	iframe #2	Co-occurring topics graph	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q12174	.*/topic/Q[0-9]*$	129	1650	iframe #3	Co-occurring topics map	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q12174	.*/topic/Q[0-9]*$	129	1650	iframe #4	Author score	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q12174	.*/topic/Q[0-9]*$	129	1650	iframe #5	Map of organizations associated with works about the topic	7000	success
+http://scholiawithproxy.duckdns.org/author/random	_unknown	60184	91	iframe #3	Co-author graph	5000	success
+http://scholiawithproxy.duckdns.org/author/random	_unknown	60184	91	iframe #4	Topic scores	5000	success
+http://scholiawithproxy.duckdns.org/author/random	_unknown	60184	91	iframe #5	Associated images	7000	success
+http://scholiawithproxy.duckdns.org/author/random	_unknown	60184	91	iframe #9	Citations by year	7000	success
+http://scholiawithproxy.duckdns.org/venue/Q4775205	.*/venue/Q[0-9]*$	162	4688	cited-venues		-1000	success
+http://scholiawithproxy.duckdns.org/venue/Q4775205	.*/venue/Q[0-9]*$	162	4688	most-cited-authors		-1000	success
+http://scholiawithproxy.duckdns.org/venue/Q4775205	.*/venue/Q[0-9]*$	162	4688	author-awards		-1000	success
+http://scholiawithproxy.duckdns.org/venue/Q4775205	.*/venue/Q[0-9]*$	162	4688	recently-published-works		-1000	success
+http://scholiawithproxy.duckdns.org/venue/Q4775205	.*/venue/Q[0-9]*$	162	4688	prolific-authors		-1000	success
+http://scholiawithproxy.duckdns.org/venue/Q4775205	.*/venue/Q[0-9]*$	162	4688	most-cited-works		-1000	success
+http://scholiawithproxy.duckdns.org/venue/Q4775205	.*/venue/Q[0-9]*$	162	4688	topics		-1000	success
+http://scholiawithproxy.duckdns.org/venue/Q4775205	.*/venue/Q[0-9]*$	162	4688	authorships-gender-distribution		-1000	success
+http://scholiawithproxy.duckdns.org/venue/Q4775205	.*/venue/Q[0-9]*$	162	4688	gender-distribution		-1000	success
+http://scholiawithproxy.duckdns.org/venue/Q4775205	.*/venue/Q[0-9]*$	162	4688	citing-venues		-1000	success
+http://scholiawithproxy.duckdns.org/venue/Q4775205	.*/venue/Q[0-9]*$	162	4688	iframe #0	Author images	7000	success
+http://scholiawithproxy.duckdns.org/venue/Q4775205	.*/venue/Q[0-9]*$	162	4688	iframe #1	Co-author graph	7000	success
+http://scholiawithproxy.duckdns.org/venue/Q4775205	.*/venue/Q[0-9]*$	162	4688	iframe #2	Citation distribution	7000	success
+http://scholiawithproxy.duckdns.org/organizations/Q1269766,Q193196	_unknown	53	1127	iframe #0	Works per year	8000	success
+http://scholiawithproxy.duckdns.org/organizations/Q1269766,Q193196	_unknown	53	1127	iframe #1	Citations per year	8000	success
+http://scholiawithproxy.duckdns.org/organizations/Q1269766,Q193196	_unknown	53	1127	iframe #2	Citations to works ratio	8000	success
+http://scholiawithproxy.duckdns.org/organizations/Q1269766,Q193196	_unknown	53	1127	iframe #3	Topics	8000	success
+http://scholiawithproxy.duckdns.org/event-series/	.*/event-series/	100	387	event-series		-1000	success
+http://scholiawithproxy.duckdns.org/printer/	.*/printer/	129	2072	iframe #0	Map of printers	8000	success
+http://scholiawithproxy.duckdns.org/topic/Q583725	.*/topic/Q[0-9]*$	180	7825	most-cited-authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q583725	.*/topic/Q[0-9]*$	180	7825	recently-published-works		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q583725	.*/topic/Q[0-9]*$	180	7825	topCited		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q583725	.*/topic/Q[0-9]*$	180	7825	topics		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q583725	.*/topic/Q[0-9]*$	180	7825	venues		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q583725	.*/topic/Q[0-9]*$	180	7825	authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q583725	.*/topic/Q[0-9]*$	180	7825	author-score		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q583725	.*/topic/Q[0-9]*$	180	7825	iframe #0	Publications per year	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q583725	.*/topic/Q[0-9]*$	180	7825	iframe #1	Co-author graph	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q583725	.*/topic/Q[0-9]*$	180	7825	iframe #2	Co-occurring topics graph	8000	success
+http://scholiawithproxy.duckdns.org/topic/Q583725	.*/topic/Q[0-9]*$	180	7825	iframe #3	Co-occurring topics map	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q583725	.*/topic/Q[0-9]*$	180	7825	iframe #4	Author score	8000	success
+http://scholiawithproxy.duckdns.org/topic/Q583725	.*/topic/Q[0-9]*$	180	7825	iframe #5	Map of organizations associated with works about the topic	8000	success
+http://scholiawithproxy.duckdns.org/location/Q583725	.*/location/Q[0-9]*$	87	884	nearby-organizations		-1000	success
+http://scholiawithproxy.duckdns.org/publisher/Q583725	.*/publisher/Q[0-9]*$	154	3352	mostCited		-1000	success
+http://scholiawithproxy.duckdns.org/publisher/Q583725	.*/publisher/Q[0-9]*$	154	3352	journals		-1000	success
+http://scholiawithproxy.duckdns.org/publisher/Q583725	.*/publisher/Q[0-9]*$	154	3352	iframe #0	Recently established journals	7000	success
+http://scholiawithproxy.duckdns.org/publisher/Q583725	.*/publisher/Q[0-9]*$	154	3352	iframe #1	As function of number of published works	7000	success
+http://scholiawithproxy.duckdns.org/event/	.*/event/	101	463	future-events		-1000	success
+http://scholiawithproxy.duckdns.org/event/	.*/event/	101	463	past-events		-1000	success
+http://scholiawithproxy.duckdns.org/event/	.*/event/	101	463	coming-deadlines		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q180556	.*/topic/Q[0-9]*$	52	1560	most-cited-authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q180556	.*/topic/Q[0-9]*$	52	1560	recently-published-works		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q180556	.*/topic/Q[0-9]*$	52	1560	topCited		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q180556	.*/topic/Q[0-9]*$	52	1560	topics		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q180556	.*/topic/Q[0-9]*$	52	1560	venues		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q180556	.*/topic/Q[0-9]*$	52	1560	authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q180556	.*/topic/Q[0-9]*$	52	1560	author-score		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q180556	.*/topic/Q[0-9]*$	52	1560	iframe #0	Publications per year	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q180556	.*/topic/Q[0-9]*$	52	1560	iframe #1	Co-author graph	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q180556	.*/topic/Q[0-9]*$	52	1560	iframe #2	Co-occurring topics graph	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q180556	.*/topic/Q[0-9]*$	52	1560	iframe #3	Co-occurring topics map	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q180556	.*/topic/Q[0-9]*$	52	1560	iframe #4	Author score	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q180556	.*/topic/Q[0-9]*$	52	1560	iframe #5	Map of organizations associated with works about the topic	7000	success
+http://scholiawithproxy.duckdns.org/award/Q35637	.*/award/Q[0-9]*$	106	4739	co-awards		-1000	success
+http://scholiawithproxy.duckdns.org/award/Q35637	.*/award/Q[0-9]*$	106	4739	gender-distribution		-1000	success
+http://scholiawithproxy.duckdns.org/award/Q35637	.*/award/Q[0-9]*$	106	4739	recent-publications-by-recipients		-1000	success
+http://scholiawithproxy.duckdns.org/award/Q35637	.*/award/Q[0-9]*$	106	4739	list-of-recipients		-1000	success
+http://scholiawithproxy.duckdns.org/award/Q35637	.*/award/Q[0-9]*$	106	4739	iframe #0	Images of recipients	7000	success
+http://scholiawithproxy.duckdns.org/award/Q35637	.*/award/Q[0-9]*$	106	4739	iframe #1	Topics of works by recipients	8000	success
+http://scholiawithproxy.duckdns.org/award/Q35637	.*/award/Q[0-9]*$	106	4739	iframe #2	Locations of recipients	8000	success
+http://scholiawithproxy.duckdns.org/gene/Q18030793	.*/gene/Q[0-9]*$	161	1078	transcripts		-1000	success
+http://scholiawithproxy.duckdns.org/gene/Q18030793	.*/gene/Q[0-9]*$	161	1078	proteins		-1000	success
+http://scholiawithproxy.duckdns.org/gene/Q18030793	.*/gene/Q[0-9]*$	161	1078	variants		-1000	success
+http://scholiawithproxy.duckdns.org/gene/Q18030793	.*/gene/Q[0-9]*$	161	1078	orthologs		-1000	success
+http://scholiawithproxy.duckdns.org/organization/Q131626	.*/organization/Q[0-9]*$	67	6580	recent-citations		-1000	success
+http://scholiawithproxy.duckdns.org/organization/Q131626	.*/organization/Q[0-9]*$	67	6580	awards		-1000	success
+http://scholiawithproxy.duckdns.org/organization/Q131626	.*/organization/Q[0-9]*$	67	6580	gender-distribution		-1000	success
+http://scholiawithproxy.duckdns.org/organization/Q131626	.*/organization/Q[0-9]*$	67	6580	recent-publications		-1000	success
+http://scholiawithproxy.duckdns.org/organization/Q131626	.*/organization/Q[0-9]*$	67	6580	iframe #0	Co-author graph	9000	success
+http://scholiawithproxy.duckdns.org/organization/Q131626	.*/organization/Q[0-9]*$	67	6580	iframe #1	Advisor graph	9000	success
+http://scholiawithproxy.duckdns.org/organization/Q131626	.*/organization/Q[0-9]*$	67	6580	iframe #2	Page production	9000	success
+http://scholiawithproxy.duckdns.org/organization/Q131626	.*/organization/Q[0-9]*$	67	6580	iframe #3	Most cited papers with affiliated first author	7000	success
+http://scholiawithproxy.duckdns.org/organization/Q131626	.*/organization/Q[0-9]*$	67	6580	iframe #4	Co-author-normalized citations per year	9000	success
+http://scholiawithproxy.duckdns.org/topic/Q668	.*/topic/Q[0-9]*$	57	2542	recently-published-works		-1000	failure
+http://scholiawithproxy.duckdns.org/topic/Q668	.*/topic/Q[0-9]*$	57	2542	most-cited-authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q668	.*/topic/Q[0-9]*$	57	2542	topCited		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q668	.*/topic/Q[0-9]*$	57	2542	topics		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q668	.*/topic/Q[0-9]*$	57	2542	venues		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q668	.*/topic/Q[0-9]*$	57	2542	authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q668	.*/topic/Q[0-9]*$	57	2542	author-score		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q668	.*/topic/Q[0-9]*$	57	2542	iframe #0	Publications per year	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q668	.*/topic/Q[0-9]*$	57	2542	iframe #1	Co-author graph	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q668	.*/topic/Q[0-9]*$	57	2542	iframe #2	Co-occurring topics graph	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q668	.*/topic/Q[0-9]*$	57	2542	iframe #3	Co-occurring topics map	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q668	.*/topic/Q[0-9]*$	57	2542	iframe #4	Author score	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q668	.*/topic/Q[0-9]*$	57	2542	iframe #5	Map of organizations associated with works about the topic	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q181600	.*/topic/Q[0-9]*$	70	6617	topCited		-1000	failure
+http://scholiawithproxy.duckdns.org/topic/Q181600	.*/topic/Q[0-9]*$	70	6617	most-cited-authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q181600	.*/topic/Q[0-9]*$	70	6617	recently-published-works		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q181600	.*/topic/Q[0-9]*$	70	6617	topics		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q181600	.*/topic/Q[0-9]*$	70	6617	venues		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q181600	.*/topic/Q[0-9]*$	70	6617	authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q181600	.*/topic/Q[0-9]*$	70	6617	author-score		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q181600	.*/topic/Q[0-9]*$	70	6617	iframe #0	Publications per year	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q181600	.*/topic/Q[0-9]*$	70	6617	iframe #1	Co-author graph	8000	success
+http://scholiawithproxy.duckdns.org/topic/Q181600	.*/topic/Q[0-9]*$	70	6617	iframe #2	Co-occurring topics graph	8000	success
+http://scholiawithproxy.duckdns.org/topic/Q181600	.*/topic/Q[0-9]*$	70	6617	iframe #3	Co-occurring topics map	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q181600	.*/topic/Q[0-9]*$	70	6617	iframe #4	Author score	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q181600	.*/topic/Q[0-9]*$	70	6617	iframe #5	Map of organizations associated with works about the topic	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q15	.*/topic/Q[0-9]*$	361	33029	most-cited-authors		-1000	failure
+http://scholiawithproxy.duckdns.org/topic/Q15	.*/topic/Q[0-9]*$	361	33029	recently-published-works		-1000	failure
+http://scholiawithproxy.duckdns.org/topic/Q15	.*/topic/Q[0-9]*$	361	33029	topCited		-1000	failure
+http://scholiawithproxy.duckdns.org/topic/Q15	.*/topic/Q[0-9]*$	361	33029	topics		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q15	.*/topic/Q[0-9]*$	361	33029	venues		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q15	.*/topic/Q[0-9]*$	361	33029	authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q15	.*/topic/Q[0-9]*$	361	33029	author-score		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q15	.*/topic/Q[0-9]*$	361	33029	iframe #0	Publications per year	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q15	.*/topic/Q[0-9]*$	361	33029	iframe #1	Co-author graph	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q15	.*/topic/Q[0-9]*$	361	33029	iframe #2	Co-occurring topics graph	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q15	.*/topic/Q[0-9]*$	361	33029	iframe #3	Co-occurring topics map	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q15	.*/topic/Q[0-9]*$	361	33029	iframe #4	Author score	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q15	.*/topic/Q[0-9]*$	361	33029	iframe #5	Map of organizations associated with works about the topic	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q52	.*/topic/Q[0-9]*$	202	1667	most-cited-authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q52	.*/topic/Q[0-9]*$	202	1667	recently-published-works		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q52	.*/topic/Q[0-9]*$	202	1667	topCited		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q52	.*/topic/Q[0-9]*$	202	1667	topics		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q52	.*/topic/Q[0-9]*$	202	1667	venues		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q52	.*/topic/Q[0-9]*$	202	1667	authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q52	.*/topic/Q[0-9]*$	202	1667	author-score		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q52	.*/topic/Q[0-9]*$	202	1667	iframe #0	Publications per year	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q52	.*/topic/Q[0-9]*$	202	1667	iframe #1	Co-author graph	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q52	.*/topic/Q[0-9]*$	202	1667	iframe #2	Co-occurring topics graph	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q52	.*/topic/Q[0-9]*$	202	1667	iframe #3	Co-occurring topics map	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q52	.*/topic/Q[0-9]*$	202	1667	iframe #4	Author score	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q52	.*/topic/Q[0-9]*$	202	1667	iframe #5	Map of organizations associated with works about the topic	6000	success
+http://scholiawithproxy.duckdns.org/publisher/Q127992	.*/publisher/Q[0-9]*$	52	853	mostCited		-1000	success
+http://scholiawithproxy.duckdns.org/publisher/Q127992	.*/publisher/Q[0-9]*$	52	853	journals		-1000	success
+http://scholiawithproxy.duckdns.org/publisher/Q127992	.*/publisher/Q[0-9]*$	52	853	iframe #0	Recently established journals	8000	success
+http://scholiawithproxy.duckdns.org/publisher/Q127992	.*/publisher/Q[0-9]*$	52	853	iframe #1	As function of number of published works	7000	success
+http://scholiawithproxy.duckdns.org/location/Q30	.*/location/Q[0-9]*$	126	2963	nearby-organizations		-1000	success
+http://scholiawithproxy.duckdns.org/P577	_unknown	121	563	iframe #0	Item counts	-1000	failure
+http://scholiawithproxy.duckdns.org/P577	_unknown	121	563	iframe #1	Property value counts	-1000	failure
+http://scholiawithproxy.duckdns.org/country/Q668/topic/Q10737	.*/topic/Q[0-9]*$	130	2851	most-cited-authors		-1000	failure
+http://scholiawithproxy.duckdns.org/country/Q668/topic/Q10737	.*/topic/Q[0-9]*$	130	2851	recently-published-works		-1000	failure
+http://scholiawithproxy.duckdns.org/country/Q668/topic/Q10737	.*/topic/Q[0-9]*$	130	2851	topCited		-1000	failure
+http://scholiawithproxy.duckdns.org/country/Q668/topic/Q10737	.*/topic/Q[0-9]*$	130	2851	topics		-1000	failure
+http://scholiawithproxy.duckdns.org/country/Q668/topic/Q10737	.*/topic/Q[0-9]*$	130	2851	venues		-1000	failure
+http://scholiawithproxy.duckdns.org/country/Q668/topic/Q10737	.*/topic/Q[0-9]*$	130	2851	author-score		-1000	failure
+http://scholiawithproxy.duckdns.org/country/Q668/topic/Q10737	.*/topic/Q[0-9]*$	130	2851	authors		-1000	success
+http://scholiawithproxy.duckdns.org/country/Q668/topic/Q10737	.*/topic/Q[0-9]*$	130	2851	iframe #0	Co-author graph	8000	success
+http://scholiawithproxy.duckdns.org/country/Q668/topic/Q10737	.*/topic/Q[0-9]*$	130	2851	iframe #1	Co-citation graph	7000	success
+http://scholiawithproxy.duckdns.org/disease/Q12156	.*/disease/Q[0-9]*$	111	2345	related-diseases		-1000	success
+http://scholiawithproxy.duckdns.org/disease/Q12156	.*/disease/Q[0-9]*$	111	2345	clinical-trials		-1000	success
+http://scholiawithproxy.duckdns.org/disease/Q12156	.*/disease/Q[0-9]*$	111	2345	iframe #0	Publications per year	7000	success
+http://scholiawithproxy.duckdns.org/author/Q97270	.*/author/Q[0-9]*$	234	2879	list-of-publications		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q97270	.*/author/Q[0-9]*$	234	2879	venue-statistics		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q97270	.*/author/Q[0-9]*$	234	2879	most-cited-works		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q97270	.*/author/Q[0-9]*$	234	2879	topics		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q97270	.*/author/Q[0-9]*$	234	2879	citing-authors		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q97270	.*/author/Q[0-9]*$	234	2879	events		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q97270	.*/author/Q[0-9]*$	234	2879	iframe #0	Number of publications per year	5000	success
+http://scholiawithproxy.duckdns.org/author/Q97270	.*/author/Q[0-9]*$	234	2879	iframe #1	Number of pages per year	7000	success
+http://scholiawithproxy.duckdns.org/author/Q97270	.*/author/Q[0-9]*$	234	2879	iframe #2	Venue statistics	7000	success
+http://scholiawithproxy.duckdns.org/author/Q97270	.*/author/Q[0-9]*$	234	2879	iframe #3	Co-author graph	7000	success
+http://scholiawithproxy.duckdns.org/author/Q97270	.*/author/Q[0-9]*$	234	2879	iframe #4	Topic scores	7000	success
+http://scholiawithproxy.duckdns.org/author/Q97270	.*/author/Q[0-9]*$	234	2879	iframe #5	Associated images	7000	success
+http://scholiawithproxy.duckdns.org/author/Q97270	.*/author/Q[0-9]*$	234	2879	iframe #6	Timeline	7000	success
+http://scholiawithproxy.duckdns.org/author/Q97270	.*/author/Q[0-9]*$	234	2879	iframe #7	Academic tree	7000	success
+http://scholiawithproxy.duckdns.org/author/Q97270	.*/author/Q[0-9]*$	234	2879	iframe #8	Locations	7000	success
+http://scholiawithproxy.duckdns.org/author/Q97270	.*/author/Q[0-9]*$	234	2879	iframe #9	Citations by year	6000	success
+http://scholiawithproxy.duckdns.org/sponsor/Q583725	.*/sponsor/Q[0-9]*$	70	3372	co-sponsors		-1000	success
+http://scholiawithproxy.duckdns.org/sponsor/Q583725	.*/sponsor/Q[0-9]*$	70	3372	recently-published-sponsored-work		-1000	success
+http://scholiawithproxy.duckdns.org/sponsor/Q583725	.*/sponsor/Q[0-9]*$	70	3372	authors-on-sponsored-work		-1000	success
+http://scholiawithproxy.duckdns.org/sponsor/Q583725	.*/sponsor/Q[0-9]*$	70	3372	iframe #0	Topics of sponsored work	8000	success
+http://scholiawithproxy.duckdns.org/sponsor/Q583725	.*/sponsor/Q[0-9]*$	70	3372	iframe #1	Project budgets	8000	success
+http://scholiawithproxy.duckdns.org/work/Q21090025	.*/work/Q[0-9]*$	197	5777	related-works		-1000	success
+http://scholiawithproxy.duckdns.org/work/Q21090025	.*/work/Q[0-9]*$	197	5777	cited-works		-1000	success
+http://scholiawithproxy.duckdns.org/work/Q21090025	.*/work/Q[0-9]*$	197	5777	statements		-1000	success
+http://scholiawithproxy.duckdns.org/work/Q21090025	.*/work/Q[0-9]*$	197	5777	list-of-authors		-1000	success
+http://scholiawithproxy.duckdns.org/work/Q21090025	.*/work/Q[0-9]*$	197	5777	citations-to-the-work		-1000	success
+http://scholiawithproxy.duckdns.org/work/Q21090025	.*/work/Q[0-9]*$	197	5777	iframe #0	Topic scores	7000	success
+http://scholiawithproxy.duckdns.org/work/Q21090025	.*/work/Q[0-9]*$	197	5777	iframe #1	Timeline	8000	success
+http://scholiawithproxy.duckdns.org/work/Q21090025	.*/work/Q[0-9]*$	197	5777	iframe #2	Citation graph	8000	success
+http://scholiawithproxy.duckdns.org/work/Q21090025	.*/work/Q[0-9]*$	197	5777	iframe #3	Citations per year	8000	success
+http://scholiawithproxy.duckdns.org/taxon/Q15978631	.*/taxon/Q[0-9]*$	131	2555	genome		-1000	success
+http://scholiawithproxy.duckdns.org/taxon/Q15978631	.*/taxon/Q[0-9]*$	131	2555	metabolome		-1000	success
+http://scholiawithproxy.duckdns.org/taxon/Q15978631	.*/taxon/Q[0-9]*$	131	2555	parents		-1000	success
+http://scholiawithproxy.duckdns.org/taxon/Q15978631	.*/taxon/Q[0-9]*$	131	2555	iframe #0	Parent Taxa	7000	success
+http://scholiawithproxy.duckdns.org/pathway/Q30225516	.*/pathway/Q[0-9]*$	54	863	iframe #0		-1000	failure
+http://scholiawithproxy.duckdns.org/pathway/Q30225516	.*/pathway/Q[0-9]*$	54	863	iframe #1	Publications per year	-1000	failure
+http://scholiawithproxy.duckdns.org/pathway/Q30225516	.*/pathway/Q[0-9]*$	54	863	citingArticles		-1000	success
+http://scholiawithproxy.duckdns.org/pathway/Q30225516	.*/pathway/Q[0-9]*$	54	863	recentArticles		-1000	success
+http://scholiawithproxy.duckdns.org/pathway/Q30225516	.*/pathway/Q[0-9]*$	54	863	participants		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q29253985	.*/author/Q[0-9]*$	117	2616	list-of-publications		-1000	failure
+http://scholiawithproxy.duckdns.org/author/Q29253985	.*/author/Q[0-9]*$	117	2616	venue-statistics		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q29253985	.*/author/Q[0-9]*$	117	2616	most-cited-works		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q29253985	.*/author/Q[0-9]*$	117	2616	topics		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q29253985	.*/author/Q[0-9]*$	117	2616	citing-authors		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q29253985	.*/author/Q[0-9]*$	117	2616	events		-1000	success
+http://scholiawithproxy.duckdns.org/author/Q29253985	.*/author/Q[0-9]*$	117	2616	iframe #0	Number of publications per year	2000	success
+http://scholiawithproxy.duckdns.org/author/Q29253985	.*/author/Q[0-9]*$	117	2616	iframe #1	Number of pages per year	2000	success
+http://scholiawithproxy.duckdns.org/author/Q29253985	.*/author/Q[0-9]*$	117	2616	iframe #2	Venue statistics	2000	success
+http://scholiawithproxy.duckdns.org/author/Q29253985	.*/author/Q[0-9]*$	117	2616	iframe #3	Co-author graph	3000	success
+http://scholiawithproxy.duckdns.org/author/Q29253985	.*/author/Q[0-9]*$	117	2616	iframe #4	Topic scores	2000	success
+http://scholiawithproxy.duckdns.org/author/Q29253985	.*/author/Q[0-9]*$	117	2616	iframe #5	Associated images	2000	success
+http://scholiawithproxy.duckdns.org/author/Q29253985	.*/author/Q[0-9]*$	117	2616	iframe #6	Timeline	2000	success
+http://scholiawithproxy.duckdns.org/author/Q29253985	.*/author/Q[0-9]*$	117	2616	iframe #7	Academic tree	3000	success
+http://scholiawithproxy.duckdns.org/author/Q29253985	.*/author/Q[0-9]*$	117	2616	iframe #8	Locations	2000	success
+http://scholiawithproxy.duckdns.org/author/Q29253985	.*/author/Q[0-9]*$	117	2616	iframe #9	Citations by year	2000	success
+http://scholiawithproxy.duckdns.org/topic/Q84263196	.*/topic/Q[0-9]*$	52	2918	most-cited-authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q84263196	.*/topic/Q[0-9]*$	52	2918	recently-published-works		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q84263196	.*/topic/Q[0-9]*$	52	2918	topCited		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q84263196	.*/topic/Q[0-9]*$	52	2918	topics		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q84263196	.*/topic/Q[0-9]*$	52	2918	venues		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q84263196	.*/topic/Q[0-9]*$	52	2918	authors		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q84263196	.*/topic/Q[0-9]*$	52	2918	author-score		-1000	success
+http://scholiawithproxy.duckdns.org/topic/Q84263196	.*/topic/Q[0-9]*$	52	2918	iframe #0	Publications per year	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q84263196	.*/topic/Q[0-9]*$	52	2918	iframe #1	Co-author graph	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q84263196	.*/topic/Q[0-9]*$	52	2918	iframe #2	Co-occurring topics graph	6000	success
+http://scholiawithproxy.duckdns.org/topic/Q84263196	.*/topic/Q[0-9]*$	52	2918	iframe #3	Co-occurring topics map	8000	success
+http://scholiawithproxy.duckdns.org/topic/Q84263196	.*/topic/Q[0-9]*$	52	2918	iframe #4	Author score	7000	success
+http://scholiawithproxy.duckdns.org/topic/Q84263196	.*/topic/Q[0-9]*$	52	2918	iframe #5	Map of organizations associated with works about the topic	6000	success
