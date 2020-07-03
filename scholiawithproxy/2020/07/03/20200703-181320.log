@@ -1,0 +1,38 @@
+http://scholiawithproxy.duckdns.org/topic/Q41112	.*/topic/Q[0-9]*$	recently-published-works	
+http://scholiawithproxy.duckdns.org/topic/Q41112	.*/topic/Q[0-9]*$	topCited	
+http://scholiawithproxy.duckdns.org/topic/Q1492760	.*/topic/Q[0-9]*$	topCited	
+http://scholiawithproxy.duckdns.org/topic/Q1492760	.*/topic/Q[0-9]*$	author-score	
+http://scholiawithproxy.duckdns.org/topic/Q12156	.*/topic/Q[0-9]*$	recently-published-works	
+http://scholiawithproxy.duckdns.org/country/Q668	.*/country/Q[0-9]*$	iframe #0	Locations as topics
+http://scholiawithproxy.duckdns.org/country/Q668	.*/country/Q[0-9]*$	iframe #1	Narrative locations
+http://scholiawithproxy.duckdns.org/country/Q668	.*/country/Q[0-9]*$	iframe #2	Co-organizations
+http://scholiawithproxy.duckdns.org/topic/Q30	.*/topic/Q[0-9]*$	recently-published-works	
+http://scholiawithproxy.duckdns.org/author/Q46826387	.*/author/Q[0-9]*$	list-of-publications	
+http://scholiawithproxy.duckdns.org/topic/Q111140	.*/topic/Q[0-9]*$	most-cited-authors	
+http://scholiawithproxy.duckdns.org/topic/Q111140	.*/topic/Q[0-9]*$	topCited	
+http://scholiawithproxy.duckdns.org/sponsor/Q4314967	.*/sponsor/Q[0-9]*$	iframe #0	Topics of sponsored work
+http://scholiawithproxy.duckdns.org/sponsor/Q4314967	.*/sponsor/Q[0-9]*$	iframe #1	Project budgets
+http://scholiawithproxy.duckdns.org/topic/Q532	.*/topic/Q[0-9]*$	recently-published-works	
+http://scholiawithproxy.duckdns.org/author/Q55004959	.*/author/Q[0-9]*$	list-of-publications	
+http://scholiawithproxy.duckdns.org/topic/Q29496	.*/topic/Q[0-9]*$	topCited	
+http://scholiawithproxy.duckdns.org/organization/Q583725	.*/organization/Q[0-9]*$	recent-citations	
+http://scholiawithproxy.duckdns.org/topic/Q12174	.*/topic/Q[0-9]*$	recently-published-works	
+http://scholiawithproxy.duckdns.org/topic/Q12174	.*/topic/Q[0-9]*$	topCited	
+http://scholiawithproxy.duckdns.org/author/random	_unknown	iframe #5	Associated images
+http://scholiawithproxy.duckdns.org/topic/Q668	.*/topic/Q[0-9]*$	recently-published-works	
+http://scholiawithproxy.duckdns.org/topic/Q668	.*/topic/Q[0-9]*$	topCited	
+http://scholiawithproxy.duckdns.org/topic/Q181600	.*/topic/Q[0-9]*$	topCited	
+http://scholiawithproxy.duckdns.org/topic/Q15	.*/topic/Q[0-9]*$	most-cited-authors	
+http://scholiawithproxy.duckdns.org/topic/Q15	.*/topic/Q[0-9]*$	recently-published-works	
+http://scholiawithproxy.duckdns.org/topic/Q15	.*/topic/Q[0-9]*$	topCited	
+http://scholiawithproxy.duckdns.org/P577	_unknown	iframe #0	Item counts
+http://scholiawithproxy.duckdns.org/P577	_unknown	iframe #1	Property value counts
+http://scholiawithproxy.duckdns.org/country/Q668/topic/Q10737	.*/topic/Q[0-9]*$	most-cited-authors	
+http://scholiawithproxy.duckdns.org/country/Q668/topic/Q10737	.*/topic/Q[0-9]*$	recently-published-works	
+http://scholiawithproxy.duckdns.org/country/Q668/topic/Q10737	.*/topic/Q[0-9]*$	topCited	
+http://scholiawithproxy.duckdns.org/country/Q668/topic/Q10737	.*/topic/Q[0-9]*$	topics	
+http://scholiawithproxy.duckdns.org/country/Q668/topic/Q10737	.*/topic/Q[0-9]*$	venues	
+http://scholiawithproxy.duckdns.org/country/Q668/topic/Q10737	.*/topic/Q[0-9]*$	author-score	
+http://scholiawithproxy.duckdns.org/pathway/Q30225516	.*/pathway/Q[0-9]*$	iframe #0	
+http://scholiawithproxy.duckdns.org/pathway/Q30225516	.*/pathway/Q[0-9]*$	iframe #1	Publications per year
+http://scholiawithproxy.duckdns.org/author/Q29253985	.*/author/Q[0-9]*$	list-of-publications	
