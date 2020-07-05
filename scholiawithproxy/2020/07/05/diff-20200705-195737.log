@@ -1,0 +1,10 @@
+http://scholiawithproxy.duckdns.org/country/Q668	.*/country/Q[0-9]*$	iframe #0	Locations as topics
+http://scholiawithproxy.duckdns.org/country/Q668	.*/country/Q[0-9]*$	iframe #1	Narrative locations
+http://scholiawithproxy.duckdns.org/country/Q668	.*/country/Q[0-9]*$	iframe #2	Co-organizations
+http://scholiawithproxy.duckdns.org/sponsor/Q4314967	.*/sponsor/Q[0-9]*$	iframe #0	Topics of sponsored work
+http://scholiawithproxy.duckdns.org/sponsor/Q4314967	.*/sponsor/Q[0-9]*$	iframe #1	Project budgets
+http://scholiawithproxy.duckdns.org/author/random	_unknown	iframe #2	Venue statistics
+http://scholiawithproxy.duckdns.org/P577	_unknown	iframe #0	Item counts
+http://scholiawithproxy.duckdns.org/P577	_unknown	iframe #1	Property value counts
+http://scholiawithproxy.duckdns.org/pathway/Q30225516	.*/pathway/Q[0-9]*$	iframe #0	
+http://scholiawithproxy.duckdns.org/pathway/Q30225516	.*/pathway/Q[0-9]*$	iframe #1	Publications per year
