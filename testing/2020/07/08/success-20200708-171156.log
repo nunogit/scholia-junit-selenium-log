@@ -1,0 +1,6 @@
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	list-of-publications	
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	venue-statistics	
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	topics	
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	events	
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	co-awards	
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	list-of-recipients	
