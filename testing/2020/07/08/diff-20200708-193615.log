@@ -1,0 +1,4 @@
+https://scholia.toolforge.org/venue/Q1981225	.*/venue/Q[0-9]*$	recently-published-works	
+https://scholia.toolforge.org/venue/Q1981225	.*/venue/Q[0-9]*$	gender-distribution	
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	gender-distribution	
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	iframe #1	Topics of works by recipients
