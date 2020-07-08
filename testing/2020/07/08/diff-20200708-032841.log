@@ -1,0 +1,3 @@
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #0	Number of publications per year
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	gender-distribution	
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	iframe #2	Locations of recipients
