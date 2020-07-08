@@ -1,0 +1,5 @@
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	venue-statistics	
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	topics	
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #0	Number of publications per year
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #7	Academic tree
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #8	Locations
