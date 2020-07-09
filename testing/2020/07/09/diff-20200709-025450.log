@@ -1,0 +1,6 @@
+https://scholia.toolforge.org/organizations/Q1269766,Q193196	_unknown	iframe #2	Citations to works ratio
+https://scholia.toolforge.org/organizations/Q1269766,Q193196	_unknown	iframe #3	Topics
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	citing-authors	
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #6	Timeline
+https://scholia.toolforge.org/venue/Q1981225	.*/venue/Q[0-9]*$	author-awards	
+https://scholia.toolforge.org/venue/Q1981225	.*/venue/Q[0-9]*$	most-cited-works	
