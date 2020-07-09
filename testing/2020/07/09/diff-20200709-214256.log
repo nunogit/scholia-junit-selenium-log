@@ -1,0 +1,2 @@
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #5	Associated images
+https://scholia.toolforge.org/venue/Q1981225	.*/venue/Q[0-9]*$	author-awards	
