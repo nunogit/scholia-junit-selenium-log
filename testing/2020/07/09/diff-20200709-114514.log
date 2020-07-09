@@ -1,0 +1,5 @@
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	venue-statistics	
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #2	Venue statistics
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #6	Timeline
+https://scholia.toolforge.org/venue/Q1981225	.*/venue/Q[0-9]*$	recently-published-works	
+https://scholia.toolforge.org/venue/Q1981225	.*/venue/Q[0-9]*$	gender-distribution	
