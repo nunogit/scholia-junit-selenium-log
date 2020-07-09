@@ -1,0 +1,5 @@
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #2	Venue statistics
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #3	Co-author graph
+https://scholia.toolforge.org/venue/Q1981225	.*/venue/Q[0-9]*$	recently-published-works	
+https://scholia.toolforge.org/venue/Q1981225	.*/venue/Q[0-9]*$	most-cited-works	
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	iframe #1	Topics of works by recipients
