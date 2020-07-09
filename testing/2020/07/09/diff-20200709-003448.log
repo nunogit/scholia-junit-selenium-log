@@ -1,0 +1,6 @@
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	list-of-publications	
+https://scholia.toolforge.org/venue/Q1981225	.*/venue/Q[0-9]*$	cited-venues	
+https://scholia.toolforge.org/venue/Q1981225	.*/venue/Q[0-9]*$	most-cited-works	
+https://scholia.toolforge.org/venue/Q1981225	.*/venue/Q[0-9]*$	gender-distribution	
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	gender-distribution	
+https://scholia.toolforge.org/award/Q35637	.*/award/Q[0-9]*$	iframe #1	Topics of works by recipients
