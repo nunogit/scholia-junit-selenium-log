@@ -1,0 +1,5 @@
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	most-cited-works	
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	topics	
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #1	Number of pages per year
+https://scholia.toolforge.org/author/Q583725	.*/author/Q[0-9]*$	iframe #4	Topic scores
+https://scholia.toolforge.org/venue/Q1981225	.*/venue/Q[0-9]*$	recently-published-works	
